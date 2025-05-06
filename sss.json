@@ -1,674 +1,674 @@
 [
-    {
-      "url": "https://sigorta.teklifi.al/sss/tum-kullanicilara-toplu-duyuru-nasil-gonderilir-4338",
-      "modul": "Program Geneli",
-      "soru": "Tüm kullanıcılara toplu duyuru nasıl gönderilir?",
-      "cevap": "1- Öncelikle 'Sorgulamalar' sayfası çağrılır.\n2- Ardından 'Yönetim İşlemleri' ne tıklayınız.\n3- Gelen sıralamada 'Kullanıcılar' alanına tıklayınız.\n4- Devamında İşlemler alanına tıklayınız.\n5- Tüm kullanıcılara ayar göndermek istiyorsanız sadece filtrelemeye göre seçim yap diyebilirsiniz. Yada filtre belirleyip yine ardından filtrelemeye göre seçim yap diyebilirsiniz.\n6- Seçili kullanıcılara toplu duyuru gönder butonuna basınız.\n7- Duyuru metnini ve ekranda kalacağı süreyi saniye cinsinden yazarak 'Gönder' butonuna tıklayınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/programi-bir-onceki-versiyona-nasil-guncellerim-4337",
-      "Modul": "Kurulum",
-      "Soru": "Programı bir önceki versiyona nasıl güncellerim?",
-      "Cevap": "1- Öncelikle 'Kullanıcı Bilgisi' alanına tıklayınız.\n2- Ardından 'Güncelleme Yap' butonunun sağındaki tuşa tıklarsanız. Oradan 'Bir Önceki Versiyona Güncelleme Yap' butonuna tıklayabilirsiniz.\n3- Program otomatik güncellemeyi alır ve yeniden başlatılır."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/raporlama-ekranimda-red-veren-sirketler-gelmiyor-bu-alani-nasil-duzenlerim-4336",
-      "Modul": "Ayarlar",
-      "Soru": "Raporlama ekranımda red veren şirketler gelmiyor? Bu alanı nasıl düzenlerim?",
-      "Cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik/ Kasko Sonucunu Raporla' alanına tıklayınız.\n2-Ayarlar sekmesine geliniz.\n3-Bu alandaki gerekli ayarların görseldeki şekilde seçili emin olduktan sonra ayarları kaydet butonuna tıklayınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/edge-stabil-versiyonu-nasil-yukleyebilirim-4334",
-      "Modul": "Ayarlar",
-      "Soru": "Edge stabil versiyonu nasıl yükleyebilirim?",
-      "Cevap": "1- Öncelikle 'Kullanıcı Bilgisi' alanını açınız. Devamında 'Program Ayarları' alanını açınız.\n2- Genel Ayarlar sekmesinde \"Edge Stabil Versiyon Yükle\" seçeneğine tıklayabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/mobilden-anlik-kullanici-bazli-sorgulama-raporlarina-nasil-erisebilirim-4333",
-      "Modul": "Ayarlar",
-      "Soru": "Mobilden anlık kullanıcı bazlı sorgulama raporlarına nasıl erişebilirim?",
-      "Cevap": "1- Öncelikle İhsan Sigorta Uygulamamızı açınız.\n2- Sorgulamalar butonuna tıklayınız.\n3- Gelen ekranda Yönetici İşlemleri / Kullanıcı (Bilgisi) butonuna tıklayınız.\n4-Artık anlık kullanıcı sorgulamalarına görseldeki alandan erişebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/mobil-telefondan-anlik-uretimleri-nasil-goruntulerim-mobil-telefondan-kesilen-policelere-nasil-erisebilirim-4332",
-      "Modul": "Ayarlar",
-      "Soru": "Mobil telefondan anlık üretimleri nasıl görüntülerim? Mobil telefondan kesilen poliçelere nasıl erişebilirim?",
-      "Cevap": "1- Öncelikle görselde bulunan 'İhsan Sigorta' adlı uygulamamızı açınız.\n2- 'Sorgulamalar' butonuna tıklayınız.\n3-Gelen ekranda sol üst köşede bulunan 3 çizgiye tıklayınız.\n4-Gelen ekranda en altta bulunan 'Muhasebe' satırına tıklayınız.\n5- Üç çizgiye tıklayınız.\n6-Sayfa ikonuna tıklayınız.\n7- 'Kesilen Poliçeler' alanına tıklayınız.\n8- Görselde görüldüğü şekilde kesilen poliçelerinize ulaşabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/beyaz-ekran-hatasini-nasil-cozebilirim-4331",
-      "Modul": "Ayarlar",
-      "Soru": "Beyaz ekran hatasını nasıl çözebilirim?",
-      "Cevap": "1- Öncelikle 'Kullanıcı Bilgisi' alanını açınız.\n2- Devamında 'Program Ayarları' alanını açınız.\n3- Genel Ayarlar sekmesindeki \"Yapay Zeka Web Servis sorgularında kaynak kullanımını optimize et\" seçeneğinin tikini kaldırıp ayarları kaydedebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/allianz-icin-otomatik-karekod-yenilemeyi-nasil-yapabilirim-4330",
-      "Modul": "Program Geneli",
-      "Soru": "Allianz için otomatik karekod yenilemeyi nasıl yapabilirim?",
-      "Cevap": "1- İlk olarak Allianz sayfasına gelip \"İşlemler Menüsünden Karekod Sıfırlama\" tuşuna basınız.\n2- Ardından ekranınızda açılan kutucuğa OTP kodunun gitmesini istediğiniz telefon numarasını kaydediniz.\n3- Girilecek olan telefon numarası OTP kodunun SMS olarak geleceği telefon olmak zorundadır.\n4- Telefon numarası girildikten sonra OTP kodunun geldiği telefon android ve aynı telefonda ihsan mobil uygulaması yüklü olup arka planda çalışıyor ise OTP kodu otomatik şekilde ekranınıza gelecektir.\n5- Ekranda bulunan karekod kullanıcı adı eşleşen tüm hesaplara atanacak ve karekod otomatik olarak onaylanacak.\n6- İşlemler bittiğinde otomatik olarak giriş sayfasına yönlendirileceksiniz. Giriş sayfasında bulunan kullanıcı adı girilen kısımda kullanıcı adınız yazıyor ise işlem başarıyla tamamlanmış demektir.\nNot: Allianz Sigorta Karekod yenileme sayfasında bulunan bir sorundan dolayı sıfırlama işlemi tek seferde tamamlanmayabiliyor. 6. adımda belirtilen işlemler olmazsa adımları tekrarlayarak işlemlerinize devam edebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/yapay-zekaya-nasil-tss-teklifi-baktirabilirim-4329",
-      "Modul": "Kurulum",
-      "Soru": "Yapay Zekaya nasıl TSS teklifi baktırabilirim?",
-      "Cevap": "1- Öncelikle kullanıcı bilgisi kısmından program ayarlarına gelip Whatsapp kısmındaki ayarları görseldeki gibi düzenlemeniz gerekmektedir.\n2- Ardından İhsan Hızlı Teklif programımıza Whatsapp hesabınızı bağlamanız gerekmektedir. Bunu bilgi girişi ekranının alt kısmındaki WhatsApp ikonuna tıklayarak yapabilirsiniz.\n3- WhatsApp açıldıktan sonra işlemler butonunun yanındaki \"Yapay Zeka\" butonunu seçip açılan pencereden \"Yapay Zeka Devrede\" kısmını \"ON\" şeklinde ayarlayıp bilgileri kaydetmeniz gerekmektedir.\n4- WhatsApp tabı açıkken yukarıdaki dünya sembolü olan buton ile sırada bekleyen oto sorgularınızı kontrol edebilirsiniz.\n5- Oto Sorgulara başlamadan önce WhatsApp ekranındayken işlemler yanındaki yeşil tikin ekrana gelmiş olması gerekmektedir.\n6- Son adım olarak Sağlık Bilgi Girişi kısmının altında bulunan Oto Sorgu butonunu görseldeki gibi olacak şekilde seçiniz.\n7- Artık müşterilerinizin ya da çalışma arkadaşlarınızın sizlere \"TSS teklifi alabilir miyim?\" diye sormasına hazırsınız :) Siz arkanıza yaslanın, gerisini Yapay Zeka kendisi halledecektir :) Aşağıda örnek bir sohbet görebilirsiniz.\n8-\n9-\n10-\n11-\n12-"
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/hdi-sigorta-ekrani-nasil-degistirilir-hdi-plus-ekranina-nasil-gecerim-4327",
-      "Modul": "Kurulum",
-      "Soru": "HDI Sigorta ekranı nasıl değiştirilir? HDI Plus ekranına nasıl geçerim?",
-      "Cevap": "1- Öncelikle 'Kullanıcı Bilgisi' alanını açınız. Devamında 'Program Ayarları' alanını açınız.\n2- HDI sekmesine tıklayız.\n3-'Ekran seçimi' alanından 'Hdı Plus Ekranını Kullan' alanını seçiniz.\n4- HDI ekranınızı yeniden başlatınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/program-uzerinden-islemci-hizi-nasil-olculur-4326",
-      "Modul": "Ayarlar",
-      "Soru": "Program üzerinden işlemci hızı nasıl ölçülür?",
-      "Cevap": "1- Öncelikle yeşil check işaretli butona tıklayarak kullanıcı bilgisi alanını açınız.\n2- İşlemci hızını ölç butonuna tıklayınız.\n3- Bu alanda işlemci hızınızı öğrenebilirsiniz.\nNOT: Programın randımanlı çalışabilmesi için işlemci hızınızın 4000 puan ve üstü olması gereklidir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/allianz-qr-kodum-hata-veriyor-degisti-nasil-yenileyebilirim-4325",
-      "Modul": "Program Geneli",
-      "Soru": "Allianz QR kodum hata veriyor/değişti nasıl yenileyebilirim?",
-      "Cevap": "1- Öncelikle Allianz ekranına giderek girişten sonraki doğrulama kodu ekranına geliniz.\n2- Kodunuz değiştiğinde veya hata verdiğinde bu ekrandan girişin altında `QR Code yenile` seçeneğine basınız.\n3- Açılan ekrana telefonunuza gelen OTP kodunu kaydedip, QR kodunuzun ekran görüntüsünü alıp `QR Code Kayıt` tuşuna basınız.\n4- Kaydettiğiniz QR kodunu paint ya da WhatsApp'ı kullanarak bilgisayar masaüstünüze indiriniz.\n5-  sitesini internetten açarak QR kodunuzu ilgili kısma sürükleyip anahtarınızın gelmesini bekleyiniz.\n6- Ardından ekrana gelen linkin \"=\" ile \"&\" sembolleri arasındaki anahtarı kopyalayın. Bu sizin QR kodunuzun deşifre edilmiş anahtarıdır.\n7- Daha sonra kopyaladığınız kodu \"Yönetim İşlemleri\" ve \"Hesaplar\" ekranına giderek ilgili olduğu hesabın Allianz gizli anahtar kısmına yapıştırıp bilgileri kaydediniz.\n8- Artık tanımladığınız yeni QR ile Allianz'a giriş yapabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/anadolu-sigorta-ya-giriste-hata-nasil-giderilir-4323",
-      "Modul": "Ayarlar",
-      "Soru": "Anadolu Sigorta'ya girişte hata nasıl giderilir?",
-      "Cevap": "1- Öncelikle 'Kullanıcı Bilgisi' alanını açınız.\n2- Devamında 'Program Ayarları' alanını açınız.\n3- Anadolu sekmesine tıklayız ve 'Login ekranını kullanmadan giriş yap' kutucuğunu tikleyiniz.\n4- Anadolu ekranınızı yeniden başlatınız.\n5- Giriş yaparken bu şekilde bir amblemimiz ekranınıza gelerek giriş yapacaksınızdır. Devamında sorgulamanızı yeniden başlatabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/axa-ya-giriste-hata-nasil-giderilir-4322",
-      "Modul": "Ayarlar",
-      "Soru": "Axa'ya girişte hata nasıl giderilir?",
-      "Cevap": "Görseldeki gibi hatalar alıyor iseniz aşağıdaki adımları uygulamalısınız.\n1- Öncelikle 'Kullanıcı Bilgisi' alanını açınız.\n2- Devamında 'Program Ayarları' alanını açınız.\n3- Axa sekmesine tıklayız ve 'Login ekranını kullanmadan giriş yap' kutucuğunu tikleyiniz.\n4- Axa ekranınızı yeniden başlatınız.\n5- Giriş yaparken bu şekilde bir amblemimiz ekranınıza gelerek giriş yapacaksınızdır. Devamında sorgulamanızı yeniden başlatabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/tramer-kullanici-adimi-ve-sifremi-nasil-degistiririm-guncellerim-4321",
-      "Modul": "Ayarlar",
-      "Soru": "Tramer kullanıcı adımı ve şifremi nasıl değiştiririm/güncellerim?",
-      "Cevap": "1- Öncelikle kullanıcı bilgisi kısmından yönetim işlemlerini açınız.\n2- Şifresini değiştirmek istediğiniz hesabı hesaplar kısmından bulunuz.\n3- Yeni kullanıcı adı ve şifresini tramer alanına giriniz.\n4- Bilgileri kaydediniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/guncelleme-nasil-yaparim-4320",
-      "Modul": "Ayarlar",
-      "Soru": "Güncelleme nasıl yaparım?",
-      "Cevap": "1- 'Kullanıcı Bilgisi' alanına tıklayınız.\n2- Devamında 'Güncelleme yap' Butonuna tıklayarak güncelleme alabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/raporlama-ekraninda-yer-alan-firma-logosu-nasil-degistirilir-firma-logosu-nasil-yuklenir-4319",
-      "Modul": "Program Geneli",
-      "Soru": "Raporlama ekranında yer alan; Firma logosu nasıl değiştirilir? Firma logosu nasıl yüklenir?",
-      "Cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik/ Kasko Sonucunu Raporla' alanına tıklayınız.\n2-'Logo Yükle' yazılı alanın sağındaki ok işaretine tıklayarak 'Firma logosu Yükle' alanına tıklayınız.\n3- Gelen ekrandan yükleyebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/raporlama-ekraninda-yer-alan-sube-logosu-nasil-degistirilir-sube-logosu-nasil-yuklenir-4318",
-      "Modul": "Program Geneli",
-      "Soru": "Raporlama ekranında yer alan; Şube logosu nasıl değiştirilir? Şube logosu nasıl yüklenir?",
-      "Cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik/ Kasko Sonucunu Raporla' alanına tıklayınız.\n2-'Logo Yükle' yazılı alanın sağındaki ok işaretine tıklayarak 'Şube logosu Yükle' alanına tıklayınız.\n3- Gelen ekrandan yükleyebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/sifremi-unuttum-kullanicim-sifresini-unutmus-nasil-gorebilirim-4317",
-      "Modul": "Program Geneli",
-      "Soru": "Şifremi unuttum / kullanıcım şifresini unutmuş nasıl görebilirim?",
-      "Cevap": "1- Şifreyi hatırlamak için iki farklı yöntem vardır. Bunlardan birisi girişte şifremi unuttum seçeneğine basarak şifrenizi yenilemektir. Şifrenizi yenilemek istemiyorsanız yönetim işlemleri açık olan bir hesaptan şifrenizi görüntüleyebilirsiniz.\n2- Bunun için yönetim işlemleri açık olan birisinden yardım almanız gerekli. Hesabına giriş yapmış olan kullanıcı \"Yönetim işlemleri\" kısmına girerek kullanıcılardan sizi bulmalıdır.\n3- Ardından isminizin üzerine tıklayarak şifre ve mail bilgilerinize erişebilir. Oradaki şifre ile hesabınıza giriş yapabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/gecmis-kasko-sorgularina-nasil-erisebilirim-4316",
-      "Modul": "Kasko",
-      "Soru": "Geçmiş kasko sorgularına nasıl erişebilirim?",
-      "Cevap": "1-Öncelikle Sorgulamalar alanına geliniz.\n2-Kasko Sorgulamaları alanından 2023 Eylül ayı ve sonrası olan verilerinize erişebilirsiniz.\n3- Geçmiş Kasko Sorgulamaları alanından Eylül ayı öncesi verilerinize ulaşabilirsiniz.\nNot: Diğer bir seçenek arama yapmak istediğiniz plakayı yazıp büyüteç sembolüne tıklayarak verilerinize erişebilirsiniz. Bu işlem için  linkten yardım alabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/gecmis-trafik-sorgularina-nasil-erisebilirim-4315",
-      "Modul": "Trafik",
-      "Soru": "Geçmiş trafik sorgularına nasıl erişebilirim?",
-      "Cevap": "1-Öncelikle Sorgulamalar alanına geliniz.\n2-Trafik Sorgulamaları alanından 2023 Eylül ayı ve sonrası olan verilerinize erişebilirsiniz.\n3- Geçmiş Trafik Sorgulamaları alanından Eylül ayı öncesi verilerinize ulaşabilirsiniz.\nNot: Diğer bir seçenek arama yapmak istediğiniz plakayı yazıp büyüteç sembolüne tıklayarak verilerinize erişebilirsiniz. Bu işlem için  linkten yardım alabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/ayni-farkli-subeden-iki-kisi-ayni-plakayi-sorgularsa-sorgulama-nasil-gozukur-4314",
-      "Modul": "Kurulum",
-      "Soru": "Aynı/Farklı şubeden iki kişi aynı plakayı sorgularsa; sorgulama nasıl gözükür?",
-      "Cevap": "- Aynı şubedeki iki kişi aynı plakayı sorgulama yaparsa; ikinci sorgulayan ilk sorgulayanın üstüne kaydedilir.\n- Farklı şubedeki iki kişi aynı plakayı sorgulama yaparsa; ilk sorgulayan ile karışmaz. İkinci sorgulama kopya olarak kaydedilir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/gecmis-sorgulama-kaydi-nasil-cagirilir-kisayolu-nedir-4313",
-      "Modul": "Toplu İşlemler",
-      "Soru": "Geçmiş sorgulama kaydı nasıl çağırılır? Kısayolu nedir?",
-      "Cevap": "1- Bilgi giriş ekranında plakayı yazdıktan sonra hemen yanındaki büyüteç işaretine tıklayınız.\n- Böylece bu plakaya ait en son ki aramanız karşınıza gelecektir.\n2-Kısayolu nedir?\n- Kısayol olarak; ' Alt + Enter ' yaparsanız büyüteçle aynı görevi görür."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/tavsiye-edebileceginiz-bilgisayar-modelleri-nelerdir-4311",
-      "Modul": "Kurulum",
-      "Soru": "Tavsiye edebileceğiniz bilgisayar modelleri nelerdir?",
-      "Cevap": "1- Uygun fiyatlı ve uzun ömürlü olmak üzere iki seçenek bulunmaktadır.\n2- Uygun Fiyatlı Sistem Önerileri\n\n3- Uzun Ömürlü Sistem Önerileri"
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/program-ilk-acilista-sirket-sayfalari-cok-yavas-aciliyor-nasil-hizlandiririm-4310",
-      "Modul": "Ayarlar",
-      "Soru": "Program ilk açılışta şirket sayfaları çok yavaş açılıyor. Nasıl hızlandırırım?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Program ayarları Genel ayarlar sekmesindeki varsayılan değeri 1sn olarak güncelleyiniz. 'Ayarları Kaydet' butonuna tıklayınız.\nNot: Artık program açılışında sigorta ekranları çok daha hızlı açılacaklar."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/sisteme-kayitli-kesilen-policeyi-nasil-duzenleyip-silebilirim-4309",
-      "Modul": "Ayarlar",
-      "Soru": "Sisteme kayıtlı kesilen poliçeyi nasıl düzenleyip silebilirim?",
-      "Cevap": "1- Sorgulamalar ekranı açılır.\n2-'Muhasebe Modülü' alanını açınız.\n3- 'Poliçe İşlemleri' sembolüne tıklayınız.\n4- Devamında 'Kesilen Poliçeler' alanına tıklayınız.\n5- Gelen ekranda kestiğiniz poliçenin üzerinde sağ tıklayarak 'Poliçeyi Düzenle/Poliçe Dosyasını Görüntüle/Poliçeyi Sil' seçeneklerine tıklayarak işlemlerinize devam edebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/farkli-kullanicilar-ayni-hesabi-kullanabilir-mi-kullanicilari-hesaplara-nasil-baglayabilirim-bir-kullanici-birden-fazla-hesaba-erisim-saglayabilir-mi-4308",
-      "Modul": "Ayarlar",
-      "Soru": "Farklı kullanıcılar aynı hesabı kullanabilir mi? Kullanıcıları hesaplara nasıl bağlayabilirim? Bir kullanıcı birden fazla hesaba erişim sağlayabilir mi?",
-      "Cevap": "1- İhsan yazılımı kullanmak üzere oluşturduğunuz kullanıcılarınız Tramer bilgileri farklı olmak koşulu ile şirketlere aynı hesap üzerinden giriş yapabilirler.\n2- Ancak aynı hesaba birden fazla kullanıcı bağlamak oturum düşmelerine daha fazla sebebiyet vermektedir.\n3- Yönetim işlemlerinden hesaplarınızı oluşturduktan sonra kullanıcı profiline geliniz.\n4- Sağ alt kısımdan kullanıcınızı bağlamak istediğiniz hesapları seçebilirsiniz. 4 farklı hesaba bağlama imkanınız bulunmaktadır.\n5- Bilgileri kaydetmeyi unutmayınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/anadolu-asos-ekranina-nasil-gecebilirim-4307",
-      "Modul": "Ayarlar",
-      "Soru": "Anadolu Asos ekranına nasıl geçebilirim?",
-      "Cevap": "1- Program ayarlarından Anadolu sayfasına geliniz.\n2- Ekran seçimi kısmından ASOS seçeneğini seçiniz.\n3- Anadolu Asos ekranı kullan seçeneğini seçiniz.\n4- Ayarları kaydediniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/sompo-ana-sayfada-sol-taraftaki-alanlari-acamiyorum-nasil-acabilirim-4306",
-      "Modul": "Program Geneli",
-      "Soru": "Sompo Ana sayfada sol taraftaki alanları açamıyorum. Nasıl açabilirim?",
-      "Cevap": "1-Sompo Anasayfa'yı açınız.\n2- Devamında Anasayfa'yı Yükle butonuna tıklayınız.\n3-Anasayfanız yüklendiği için artık programı kullanabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/sompo-ana-sayfayi-nasil-acabilirim-4305",
-      "Modul": "Kurulum",
-      "Soru": "Sompo Ana sayfayı nasıl açabilirim?",
-      "Cevap": "1- Sompo'ya giriş yapınız.\n2- Giriş yaptıktan sonra 'Hızlı Satış Ekranı'nda iseniz 'İşlemler'/'Anasayfa' butonuna tıklayınız.\n3-Ekranınız bu şekilde gelecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/sompo-sfs-nasil-acabilirim-4304",
-      "Modul": "Program Geneli",
-      "Soru": "Sompo SFS nasıl açabilirim?",
-      "Cevap": "1- Sompo'ya giriş yapınız.\n2- Devamında yukarıda bulunan 'SFS Tabı Aç' butonuna tıklayınız.\n3- Sfs ekranı bu şekilde açılacaktır."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/daha-onceden-kesilmis-olan-policelerin-bitimi-yaklasan-kisileri-nereden-goruntuleyebilirim-4303",
-      "Modul": "Muhasebe",
-      "Soru": "Daha önceden kesilmiş olan poliçelerin bitimi yaklaşan kişileri nereden görüntüleyebilirim?",
-      "Cevap": "1-Sorgulamalar ekranı açılır.\n2-'Muhasebe Modülü' alanını açınız.\n3- 'Poliçe İşlemleri' sembolüne tıklayınız.\n4-Devamında 'Poliçe Listele' butonuna tıklayınız.\n5-'Hazır Filtreler' alanına tıklayınız.\n6-'Bitime 10 gün kala poliçeler' veya 'Bitime 15 gün kalan poliçeler' alanlarına tıklayınız.\n7-Aşağı alanda gelen poliçeleri görüntüleyebilirsiniz.\nNot: Poliçelerin en sağında bulunan Bildir kısmına tıklayarak WhatsApp üzerinden kişilerle iletişime geçebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/fiyat-raporlama-ekraninda-tc-sasi-ve-motor-numarasini-gizleyebilir-miyim-nasil-kaldirabilirim-4301",
-      "Modul": "Program Geneli",
-      "Soru": "Fiyat raporlama ekranında TC, şasi ve motor numarasını gizleyebilir miyim? Nasıl kaldırabilirim?",
-      "Cevap": "1- Fiyat raporlama ekranının üst bölümünde yer alan ayarlar sayfası açılır.\n2- Seçeneklerin en altında yer alan \"Fiyat raporlama ekranında TC, şasi ve motor numarasını tahmin edilemez (***) yap\" seçeneği aktif edilir. Ayarlar kaydedilir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/fiyat-raporlama-ekraninda-red-veren-sirketlerin-listelenmesini-istemiyorum-nasil-kaldirabilirim-4300",
-      "Modul": "Program Geneli",
-      "Soru": "Fiyat raporlama ekranında red veren şirketlerin listelenmesini istemiyorum. Nasıl kaldırabilirim?",
-      "Cevap": "1- Fiyat raporlama ekranının üst bölümünde yer alan ayarlar sayfası açılır.\n2- Seçeneklerin en altında yer alan \"Fiyat raporlama ekranında red veren şirketler de listelensin\" işaretli ise kaldırılır. Ayarlar kaydedilir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kesilen-police-ekrani-nedir-ne-ise-yarar-yakalanan-police-bilgileri-ne-oluyor-ne-amacli-kullaniliyor-bu-ekranda-bilgiler-yanlis-yada-eksik-olunca-ne-olur-4299",
-      "Modul": "Program Geneli",
-      "Soru": "Kesilen poliçe ekranı nedir, ne işe yarar? Yakalanan poliçe bilgileri ne oluyor? Ne amaçlı kullanılıyor? Bu ekranda bilgiler yanlış yada eksik olunca ne olur?",
-      "Cevap": "1- Kesilen poliçe ekranı, poliçenizi kestikten sonra bilgileri kaydetmek için doldurmanız gereken bir bilgi ekranıdır.\n2- Özellikle şubeli firmalarda poliçelerin takibi açısından oldukça önemli bir özellik olmakla birlikte; küçük ve orta ölçekli acentelerin anlık üretimlerini takip etmek ve gün sonu raporunda doğru bilgileri elde etmek için bu bilgilerin doğru şekilde girilmesi önemlidir.\n3- Bu kayıt işlemi sayesinde kestiğiniz tüm poliçeler muhasebe modülünüzde detaylı şekilde görünecektir. Bu aynı zamanda günlük rapor bildirimleri ile telefonunuza gelen raporların daha doğru bir şekilde sizlere aktarılmasını sağlar.\n4- Eğer bu özelliği kullanmayıp ekrana çıktığında \"Poliçeyi Kaydetme\" seçeneğine basarsanız tüm üretimlerinizi tek tek excele yazmakla zaman kaybetmek zorunda kalacaksınız.\n5- Biz elimizden geldiği kadar bütün PDF'lerden en doğru dataları almaya çalışıyor, sizin iş yükünüzü hafifletmeye çalışıyoruz. Size sadece kaydet tuşuna basmak kalıyor. Fakat PDF dosyalarında değişiklikler meydana geldiği zaman bilgilerin temininde eksiklikler veya yanlışlıklar olabiliyor. Böyle durumlarda ilgili PDF dosyasını bize iletirseniz bunları da sisteme işliyoruz. Bu sayede sonraki poliçelerinizde düzgün bilgiler elde etmiş oluyorsunuz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/geribildirimi-nasil-atabilirim-4298",
-      "Modul": "Program Geneli",
-      "Soru": "Geribildirimi nasıl atabilirim?",
-      "Cevap": "1- Bilgi giriş ekranı veya sorgulamalar ekranının sağ üst köşesinde bulunan işaretli kutucuğa basınız.\n2- Açılan ekrandan sorunun türünü/modülünü vb. bilgileri doldurunuz. Hemen altındaki kısımdan sorununuzla ilgili bir \"Başlık\" ve \"Açıklama\" giriniz. Dilerseniz ekran görüntüsü veya videosu alabilir, sorununuzla ilgili dosyayı da geri bildiriminize ekleyebilirsiniz.\n3- En son gönder seçeneğine tıklayarak geri bildiriminizi bizlere ulaştırabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kesilen-policeleri-nasil-kaydederim-kesilen-police-bildirme-ekrani-nedir-ne-ise-yarar-ne-gibi-ozellikleri-vardir-4297",
-      "Modul": "Program Geneli",
-      "Soru": "Kesilen poliçeleri nasıl kaydederim. Kesilen poliçe bildirme ekranı nedir? Ne işe yarar? Ne gibi özellikleri vardır?",
-      "Cevap": "1- Kesilen poliçelerle birlikte otomatik açılan bu ekranı bilgi girişi içindeki \"Muhasebe İşlemleri\" kısmından da açabilirsiniz.\n2- Açılan ekran 4 kutucuğa ayrılmış bir rapor ekranı olacaktır. Kestiğiniz poliçenin PDF versiyonunu sol alt kısımdan ekleyerek bilgileri otomatik olarak doldurabilirsiniz.\n3- Poliçe ile ilgili temel bilgileri 3. kutucuktaki bölüme giriniz.\n4- Tanzim tarihi, başlangıç ve bitiş tarihi bilgilerini giriniz.\n5- Poliçe Prim bilgilerini giriniz.\n6- Acente ve müşteri bilgilerini de ekleyiniz.\n7- Son olarak poliçeyi kaydet butonuna basarak poliçeyi kaydedebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/butun-kullanicilarimi-guncel-versiyona-nasil-gecirebilirim-guncellestirme-islemini-toplu-sekilde-nasil-yapabilirim-4296",
-      "Modul": "Toplu İşlemler",
-      "Soru": "Bütün kullanıcılarımı güncel versiyona nasıl geçirebilirim? Güncelleştirme işlemini toplu şekilde nasıl yapabilirim?",
-      "Cevap": "1- Sorgulamalar ekranından Yönetici İşlemleri seçeneğini açınız.\n2- Kullanıcılar kısmına giriniz.\n3- Açılan sayfanın sol üst kısmından işlemler seçeneğine basıp \"İşlem Yap\" kutucuğunun yanındaki ok işaretine basınız.\n4- Açılan bölümden Seçilen Kullanıcılara Güncelleştirme Yap seçeneğine basınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/butun-kullanicilarimi-beta-versiyona-nasil-gecirebilirim-4295",
-      "Modul": "Toplu İşlemler",
-      "Soru": "Bütün kullanıcılarımı beta versiyona nasıl geçirebilirim?",
-      "Cevap": "1- Sorgulamalar ekranından Yönetici İşlemleri seçeneğini açınız.\n2- Kullanıcılar kısmına giriniz.\n3- Açılan sayfanın sol üst kısmından işlemler seçeneğine basıp \"İşlem Yap\" kutucuğunun yanındaki ok işaretine basınız.\n4- Açılan bölümden seçilen kullanıcılara beta güncelleştirme yap seçeneğine basınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kesilen-policeyi-whatsapp-uzerinden-nasil-gonderebilirim-4294",
-      "Modul": "Program Geneli",
-      "Soru": "Kesilen poliçeyi Whatsapp üzerinden nasıl gönderebilirim?",
-      "Cevap": "1- Bilgi girişi ekranından \"Muhasebe İşlemleri\" kısmına giriniz.\n2- Açılan ekranın üst kısmından Whatsapp Özellikleri kısmına giriniz.\n3- Poliçeyi göndermek istediğiniz numara bilgilerini ekrana girerek gönder butonuna basabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/fiyatlari-raporlarken-sadece-fiyat-ve-arac-bilgilerinin-goruntusunu-nasil-raporlayabilirim-4292",
-      "Modul": "Trafik",
-      "Soru": "Fiyatları raporlarken sadece fiyat ve araç bilgilerinin görüntüsünü nasıl raporlayabilirim?",
-      "Cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik Sonucunu Raporla' alanına tıklayınız.\n2-Sadece fiyat ve araç bilgileri görüntüsünü almak isterseniz. Aşağıdaki alandan 'Sadece fiyat ve araç bilgilerinin görüntüsü al' seçeneğine tıklayınız.\n3- Ekranınıza bu şekilde bilgi verilir.\n4- Fiyatlarınızın raporlaması aşağıdaki şekilde gönderilir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/raporlama-yaparken-sadece-trafik-fiyatlarini-nasil-raporlayabilirim-4291",
-      "Modul": "Trafik",
-      "Soru": "Raporlama yaparken sadece trafik fiyatlarını nasıl raporlayabilirim?",
-      "Cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik Sonucunu Raporla' alanına tıklayınız.\n2-Sadece fiyat görüntüsünü almak isterseniz. Aşağıdaki alandan 'Sadece fiyat görüntüsü al' seçeneğine tıklayınız.\n3-Ekranınıza bu şekilde bilgi verilir.\n4-Fiyatlarınızın raporlaması aşağıdaki şekilde gönderilir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/trafik-rapor-sonucunu-nasil-kopyalariz-4290",
-      "Modul": "Trafik",
-      "Soru": "Trafik rapor sonucunu nasıl kopyalarız?",
-      "Cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik Sonucunu Raporla' alanına tıklayınız.\n2-Fiyatların yazısını işaretli yerden kopyalayabilirsiniz.\n3-Bu şekilde gönderilir fiyatlarınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/trafik-fiyatlarini-raporlarken-taksit-ve-ekstra-bilgiler-alanini-nasil-kaldiririm-4289",
-      "Modul": "Trafik",
-      "Soru": "Trafik fiyatlarını raporlarken Taksit ve Ekstra Bilgiler alanını nasıl kaldırırım?",
-      "Cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik Sonucunu Raporla' alanına tıklayınız.\n2-Devamında gelen ekranda sarı renk ile işaretli kısım gözükmemesi için 'Gösterilmesin' seçeneğine tıklayınız.\n3-Ekranınızda 'Taksit' ve 'Ekstra Bilgiler' alanı kalkacaktır. Artık ekran görüntüsünü bu şekilde gönderebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kasko-raporumu-tek-sayfada-nasil-getiririm-4288",
-      "Modul": "Kasko",
-      "Soru": "Kasko raporumu tek sayfada nasıl getiririm?",
-      "Cevap": "1-Bunun için öncelikle 'Bilgi Girişi' ekranından 'Kasko Sonucunu Raporla' alanına tıklayınız.\n2-Devamında gelen ekranda 'Ayarlar' sekmesine tıklayınız.\n3-'Kasko rapor sonucu iki parça halinde kopyalansın' seçeneğinin tikini kaldırınız. 'Ayarları Kaydet' butonuna tıklayınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/uygulamaya-giris-yaparken-ekranima-asagidaki-uyari-geliyor-ve-uygulama-acilmiyor-ne-yapmaliyim-4287",
-      "Modul": "Program Geneli",
-      "Soru": "Uygulamaya giriş yaparken ekranıma aşağıdaki uyarı geliyor ve uygulama açılmıyor. Ne yapmalıyım?",
-      "Cevap": "1- Eğer görseldeki uyarıyı alıyorsanız zarar veren bir uygulamadan dolayı hesabınızın girişi kitlenmiştir.\nAşağıdaki destek numaralarımızdan herhangi birini arayarak bizlerden destek alabilirsiniz.\n0 505 986 51 66 (Destek 1)\n0 506 850 51 66 (Destek 2)\n0 532 405 51 66 (Destek 3)\n0 533 156 51 66 (Destek 4)"
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kesilen-police-yakalandiginda-ekrana-uyari-gelmesi-nasil-engellenir-4286",
-      "Modul": "Ayarlar",
-      "Soru": "Kesilen poliçe yakalandığında ekrana uyarı gelmesi nasıl engellenir?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-'Genel Ayarlar' ekranındaki 'Kesilen poliçe yakalandığında ekrana uyarı verilsin' tikini kaldırmalısınız.\n4-'Ayarları kaydet' tuşuna basınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/turk-nippon-yeni-sfs-ekranina-nasil-geceriz-4285",
-      "Modul": "Ayarlar",
-      "Soru": "Türk Nippon Yeni SFS ekranına nasıl geçeriz?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Türk Nippon sekmesine geldikten sonra sağ üstten \"Türk Nippon Yeni SFS ekranını kullan\" tuşuna tıklayıp ayarları kaydedebilirsiniz.\n4-Değişikliklerin geçerli olabilmesi için Türk Nippon ekranını kapatıp açabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kullanicinin-telefon-numarasini-nereden-guncelleriz-4283",
-      "Modul": "Ayarlar",
-      "Soru": "Kullanıcının telefon numarasını nereden güncelleriz?",
-      "Cevap": "1- Öncelikle kullanıcı bilgisi alanını açınız.\n2-Yönetim işlemleri ekranı açınız.\n3- Devamında 'Kullanıcılar' alanında telefon numarasını değiştirmek istediğiniz alana tıklayınız.\n4- Sağ ekranda 'Sabit Tel' yada 'GSM No' değiştirebilirsiniz. Bilgileri Kaydet butonuna tıklayınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/subenin-telefon-numarasini-nereden-guncelleriz-4282",
-      "Modul": "Ayarlar",
-      "Soru": "Şubenin telefon numarasını nereden güncelleriz?",
-      "Cevap": "1- Öncelikle kullanıcı bilgisi alanı açılır.\n2-Yönetim işlemleri ekranı açılır.\n3- Devamında 'Şubeler' alanında telefon numarasını değiştirmek istediğiniz alana tıklayınız.\n4- Sağ ekranda 'Sabit Tel' yada 'GSM No' değiştirebilirsiniz. Bilgileri Kaydet butonuna tıklayınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/yapay-zekada-arka-kismin-background-resmi-kullanilmasi-nasil-kapatilir-4281",
-      "Modul": "Program Geneli",
-      "Soru": "Yapay zekada arka kısmın background resmi kullanılması nasıl kapatılır?",
-      "Cevap": "1- Kullanıcı bilgisi kısmından program ayarları açılır.\n2- Genel ayarlar kısmından \"Yapay Zeka Web Servis sorgularında kaynak kullanımını optimize et\" seçeneği kaldırılır."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/trafik-ve-kasko-teklifi-raporunda-firma-adimi-nasil-duzenleyebilirim-4277",
-      "Modul": "Program Geneli",
-      "Soru": "Trafik ve Kasko teklifi raporunda firma adımı nasıl düzenleyebilirim?",
-      "Cevap": "1- Bilgi girişi ekranında sorgu yapıldıktan sonra raporlama seçeneğine tıklanır.\n2- Açılan raporun sağ üst kısmından ayarlar butonuna tıklanır.\n3- Raporlama ekranındaki Firma adı bilgisini şununla değiş seçeneği seçilerek istenen firma adı girilir.\n4- Ekranın alt kısmından ayarlar kaydedilir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/trafik-ve-kasko-tekliflerinde-sadece-fiyat-bilgisini-nasil-kopyalayip-musterimle-paylasabilirim-4276",
-      "Modul": "Program Geneli",
-      "Soru": "Trafik ve Kasko tekliflerinde sadece fiyat bilgisini nasıl kopyalayıp müşterimle paylaşabilirim?",
-      "Cevap": "1- Bilgi giriş ekranından Trafik/Kasko sonucunu raporla seçeneği seçilir.\n2- Ekran görüntüsü butonunun yanındaki kopyalama işaretine tıklanır.\n3- Kopyalanan metni istediğiniz yere Ctrl+v yaparak yapıştırabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/tramerde-guvenlik-resmini-cozme-ekrani-surekli-geliyor-bu-nasil-onlenir-4275",
-      "Modul": "Ayarlar",
-      "Soru": "Tramerde Güvenlik resmini çözme ekranı sürekli geliyor. Bu nasıl önlenir?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Açılan ayarlar sekmesinde Tramer'e tıklayınız.\n4-Devamında 'Tramer'de giriş sonrasında Proxy kullanma' butonuna tik atınız.\n5-Ardından 'Ayarları Kaydet' tuşuna basınız.\nNot: Artık tramere girişte gelen güvenlik resmini son kez geçtikten sonra bu resmi çözmeniz istenmeyecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/anadolu-sigorta-da-guvenlik-kodu-otomatik-nasil-cozulur-4268",
-      "Modul": "Ayarlar",
-      "Soru": "Anadolu Sigorta'da güvenlik kodu otomatik nasıl çözülür?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Açılan ayarlar sekmesinde Anadolu'ya tıklayarak, 'Güvenlik kodunu otomatik çözmeye çalış' butonuna tik atınız.\n4-Ardından 'Ayarları Kaydet' tuşuna basınız. Anadolu ekranınızı tekrar baştan başlattığınızda artık otomatik şekilde sisteme girecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/muhasebe-modulunde-kesilen-policeler-yakalanmadiginda-sisteme-nasil-yuklerim-4267",
-      "Modul": "Muhasebe",
-      "Soru": "Muhasebe modülünde kesilen poliçeler yakalanmadığında sisteme nasıl yüklerim?",
-      "Cevap": "1- Öncelikle Bilgi Girişi ekranımızı açıyoruz.\n2- 'Muhasebe İşlemleri' / 'Kesilen Poliçe Bildir' seçeneğine tıklayınız.\n3- Gelen ekrandan poliçe bilgilerinizi girerseniz poliçeniz Bugün yakalanan poliçeler kısmında yer alacaktır.\n3- Yada ikinci seçenek olarak ekranın en sol alttaki 'Poliçe Yükle' alanına tıklayarak poliçenizi seçip yükleyebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/personel-farkli-bilgisayara-program-kurup-sistemdeki-aktif-bir-kullanici-adi-ile-giris-yapmasi-nasil-engellenir-4266",
-      "Modul": "Ayarlar",
-      "Soru": "Personel farklı bilgisayara program kurup; sistemdeki aktif bir kullanıcı adı ile giriş yapması nasıl engellenir?",
-      "Cevap": "1-Öncelikle Kullanıcının yer aldığı PC Idsi öğrenilmelidir. Bu işlem için öncelikle programımızdaki sorgulamalar ekranına gelinir.\n2-Devamında 'Yönetici işlemleri' / 'Kullanıcılar' seçeneğini seçiniz.\n3-Gelen ekranda kullanıcı hesabı sütununu bularak; satırın en sağında bulunan 'İşlemler' seçeneğine tıklayınız.\n4- Devamında ekranınıza 'PC Idsi' kısmından ID numarasını koplayınız.\n5-Programın sol üst köşesinde bulunan 'Kullanıcı Bilgileri' / 'Yönetim işlemleri' alanına giriniz.\n6-Gelen ekranda aktif olan kullanıcıyı seçiniz.\n7-Kopyalanan IP numarasını; 'Giriş izni verilen bilgisayar Idleri' kısmına yapıştırınız.\n8-'Bilgisayar Id Giriş Yöntemi' kısmından 'Pc Idsi dışında giriş yapamasın' seçeneğini seçiniz ve 'Bilgileri Kaydet' butonuna basınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/mesaj-ile-gunluk-raporlar-sistemden-nasil-cagirilir-4265",
-      "Modul": "Muhasebe",
-      "Soru": "Mesaj ile günlük raporlar sistemden nasıl çağırılır?",
-      "Cevap": "1- Öncelikle günlük raporları almak istediğiniz telefon numarasının kullanıcı bilgisinde kayıtlı olduğundan emin olmak gerekir. Bunu kontrol etmek için kullanıcı bilgisi açılır.\n2-Yönetim işlemleri ekranı açılır.\n3- Kullanıcılar kısmına gelinir.\n4- Hangi kullanıcının numarasına günlük raporlar isteniyorsa o kişi seçilir.\n5- GSM no kısmına ilgili numara yazılır ve bilgiler kaydedilir.\n6- Kontrol için hızlı ekranda tanımlı olan WhatsApp hesabınıza \"Günlük raporları getir/dünkü raporları getir.\" gibi komutlar yazabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/giris-ekranini-tam-ekran-modda-nasil-acarim-4264",
-      "Modul": "Ayarlar",
-      "Soru": "Giriş ekranını tam ekran modda nasıl açarım?",
-      "Cevap": "1- Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2- Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-'Giriş ekranı tam ekran modda açılsın' yazısının başındaki kutucuğu tikleyiniz. Devamında Ayarları Kaydet butonuna basabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/secilen-kullanicilara-son-degistirilen-ayari-toplu-gonderimini-nasil-yaparim-4263",
-      "Modul": "Ayarlar",
-      "Soru": "Seçilen Kullanıcılara son değiştirilen ayarı toplu gönderimini nasıl yaparım?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Değiştirmek istediğiniz ayara tıklayın. Örneğin; Allianz'da Web servis kullanımı olarak 'Önce yapay zeka web servis sorgulansın. Fiyat gelmezse web sorgulansın' seçeneğini seçelim.\n4-Daha sonra 'Son değiştirilen ayarın toplu gönderimini yap' seçeneğine tıklayın.\n5-Akabinde sorgulamalar sayfasında böyle bir ekran gelecektir. Gelen bildirimde 'Anladım' butonuna basın.\n6-Devamında İşlemler menüsünden Filtrelemeye Göre Seçim yapabilirsiniz veya aşağıdan ayarı yapmak istediğiniz Kullanıcıları seçebilirsiniz.\n7-'İşlem Yap' butonuna bastığınızda 'Seçilen Kullanıcılara Ayar Gönder' seçeneğine tıklayınız.\n8-Gelen ekrana 'Evet' butonuna basınız.\n9- Kullanıcıların ekranına bu uyarı gelecektir. 'Tamam' butonuna tıklayabilirler.\nUYARI: Bu özellik yalnızca online olan kullanıcılara gider. Offline olan kullanıcılara programa giriş sonrası gider.\nUYARI: Sadece en son yapılan tek bir ayar gönderilir. Birden fazla ayar gönderilmez."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/tum-kullanicilarimda-son-degistirilen-ayarin-toplu-gonderimini-nasil-yaparim-4262",
-      "Modul": "Ayarlar",
-      "Soru": "Tüm kullanıcılarımda son değiştirilen ayarın toplu gönderimini nasıl yaparım?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Değiştirmek istediğiniz ayara tıklayın. Örneğin; Allianz'da Web servis kullanımı olarak 'Önce yapay zeka web servis sorgulansın. Fiyat gelmezse web sorgulansın' seçeneğini seçelim.\n4-Daha sonra 'Son değiştirilen ayarın toplu gönderimini yap' seçeneğine tıklayın.\n5-Akabinde sorgulamalar sayfasında böyle bir ekran gelecektir. Gelen bildirimde 'Anladım' butonuna basın.\n6-Filtreleme yapmadan 'Filtrelemeye Göre Seçim Yap' butonuna tıklayarak tüm kullanıcılarınızı seçiniz.\n7-'İşlem Yap' butonuna bastığınızda 'Seçili Kullanıcılara Ayar Gönder' seçeneğine tıklayınız.\n7-Gelen bildirimde yapılacak işlemin detayı yazar. Burada 'Evet' butonuna tıklarsanız; en son yaptığınız bu ayarı tüm kullanıcılara uygulayacaktır.\n8- Kullanıcıların ekranına bu uyarı gelecektir. 'Tamam' butonuna tıklayabilirler.\nUYARI: Bu özellik yalnızca online olan kullanıcılara gider. Offline olan kullanıcılara programa giriş sonrası gider.\nUYARI: Sadece en son yapılan tek bir ayar gönderilir. Birden fazla ayar gönderilmez."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/yeni-fiyat-raporlama-ekranini-nasil-kullanabilirim-4261",
-      "Modul": "Ayarlar",
-      "Soru": "Yeni fiyat raporlama ekranını nasıl kullanabilirim?",
-      "Cevap": "1- Bilgi giriş ekranında sorgu yapıldıktan sonra raporlama kısmı açılır.\n2- Buradan Kasko/Trafik sonucunu raporla Yeni* seçeneklerinden istenen seçilir.\n3- Yeni raporlama sonucunuz otomatik olarak açılacaktır."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/tamamlayici-saglik-sorgulamasi-tss-nasil-sorgulamasi-yapilir-4260",
-      "Modul": "TSS",
-      "Soru": "Tamamlayıcı Sağlık Sorgulaması (TSS) nasıl sorgulaması yapılır?",
-      "Cevap": "1-Öncelikle açılan programda tamamlayıcı sağlık butonuna tıklanır.\n2-Sonrasında gelen ekrandan sorgulamanızı yapabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/trafik-kasko-ve-tss-sorgularini-excel-e-nasil-aktarabilirim-4259",
-      "Modul": "Toplu İşlemler",
-      "Soru": "Trafik, Kasko ve Tss sorgularını Excel'e nasıl aktarabilirim?",
-      "Cevap": "1- Sorgulamalar ekranında Trafik/Kasko/Tss sorgulamaları kısmından Excel dosyasına aktarılmak istenen seçilir.\n2- Sayfanın en altında bulunan satır sayısı kısmından aktarılmak istenen sorguların sayısı seçilir. Tüm sorguların ekranda açılması için biraz beklenir.\n3- Ekranın yukarısından İşlemler kısmı açılır.\n4- İşlemlerin altında açılan kısımdan MS Excel'e aktar seçeneği seçilir.\n5- Excel tablosu bilgisayarınıza otomatik olarak indirilecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/merkezde-yapilan-sorgulamalar-tali-veya-subenin-hesabina-nasil-aktarilir-4258",
-      "Modul": "Ayarlar",
-      "Soru": "Merkezde yapılan sorgulamalar tali veya şubenin hesabına nasıl aktarılır?",
-      "Cevap": "1-Bilgi Giriş Ekranı'nda; Web Kullanıcı Prodüktörde resimdeki gibi sadece (Web) kullanıcıları listeleniyor ise aşağıdaki adımları uygulamalısınız.\n2-Öncelikle Kullanıcı Bilgisi butonuna tıklanır. Açılan ekrandan Program Ayarları butonuna tıklanır.\n3-Gelen ekranın sol tarafında ikinci sırada yer alan Bilgi Girişi sekmesine basılır.\n4-\"Bilgi giriş ekranında web kullanıcıları prodüktör seçeneğinde sadece web kullanıcılarını listele\" isimli buton ekrandaki şekilde tikli ise; bu tik kaldırılır.\n5-Daha sonrasında Bilgi Girişi Ekranında bilgilerin güncellenmesi için en sağındaki küçük kırmızı çarpı ile ekranı kapatıp ve tekrar açınız.\n6-Bu sayede Bilgi Giriş Ekranı'nda; Web Kullanıcı Prodüktör butonunun sağına tıklandığı taktirde hem Masaüstü hem de Web kullanıcılarınızı görüntüleyerek işlemlerinize devam edebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/ihsanconnect-whatsapp-hesabi-nasil-baglanilip-aktiflestirilir-4257",
-      "Modul": "Whatsapp",
-      "Soru": "İhsanConnect WhatsApp hesabı nasıl bağlanılıp aktifleştirilir?",
-      "Cevap": "1-Sorgulamalar sayfasından sol kısımda yer alan WhatsApp ikonu tıklanır.\n2-WhatsApp oturumu kısmında bulunan Hesabı Bağla tuşuna basılır.\n3- Açılan ekran daha önceden bağlanılmış hesapları listeler.\n4-Yeni bir hesap bağlamak için önce WhatsApp hattının numarası ve bilgileri girilir.\n5-Hesaba kimlerin erişebileceği seçilir.\n6-Hesabı Bağla tuşuna basılır.\n7-Karekod geldikten sonra WhatsApp bağlı cihazlardan tarama yapılır.\n8-Karakod taraması yapıldıktan sonra WhatsApp bağlı cihazlara IhsanConnect adında bir kayıt gelecektir.\n9-Daha sonra bildirim gönderme penceresinde yeni bağlı hesabı görebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/ihsanconnect-whatsapp-nedir-musteriye-yenileme-hatirlatmalari-nasil-gonderilir-klasik-whatsapp-dan-farki-nedir-4256",
-      "Modul": "Whatsapp",
-      "Soru": "İhsanConnect WhatsApp nedir? Müşteriye yenileme hatırlatmaları nasıl gönderilir? Klasik WhatsApp dan farkı nedir?",
-      "Cevap": "1-Sorgulamalar sayfasından sol kısımda yer alan WhatsApp ikonu tıklanır.\n2-Açılan pencerede araç sahibinin GSM numarası girilir.\n3- Şablonlar kısmından daha önceden ayarlanmış hazır şablonları kullanabilirsiniz.\n4-Şablonlar kısmında bulunan tuşa basarak kendi şablonlarınızı ayarlayabilirsiniz.\n5-WhatsApp oturumu kısmında bulunan hazır bağlanmış oturumları kullanabilirsiniz. Yada hemen yanındaki tuştan İhsanConnect WhatsApp hesabınızı bağlayabilir 7x24 kullanabilirsiniz. İsterseniz uygulama içerisinde bulunana WhatsApp hattınızı da kullanabilirsiniz. İhsanConnect WhatsApp ın farkı sunucuda çalıştığı için 7x24 kullanılabilir ve diğer personelleriniz bu hattı kullanarak müşterilerinize mesaj atabilirler.\n6- Gönderilecek WhatsApp hesabını seçtikten sonra altta bulunan WhatsApp Mesajı Gönder tuşuna basarak gönderim yapabilirsiniz.\n7-Gönderim sonucu başarılı olunca ekrana gelecektir.\n8-WhatsApp hattına mesaj düşecektir.\n9-Ayrıca SMS aboneliğini başlatmışsanız bu mesajı size ait sms başlığı ile de gönderebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/bilgisayarimin-ekran-olceklendirmesini-nasil-degistiririm-4252",
-      "Modul": "Ayarlar",
-      "Soru": "Bilgisayarımın ekran ölçeklendirmesini nasıl değiştiririm ?",
-      "Cevap": "1-Masaüstünde boş bir kısımda sağ tık yapalım.\n2-Açılan menüden Görüntü ayarlarını seçelim.\n3- Açılan pencereden ölçeklendirme kısmından 100% veya 125% seçeneklerinden kendimize uygun olanı seçelim.\n4- Bilgisayarımızı yeniden başlatıp ardından normal bir şekilde işlemlerimizi sağlayabiliriz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/bilgisayarim-whatsapp-dan-gelen-ruhsatlara-ve-ruhsat-bilgilerine-nasil-oto-sorgu-yapabilir-4251",
-      "Modul": "Whatsapp",
-      "Soru": "Bilgisayarım Whatsapp dan gelen ruhsatlara ve ruhsat bilgilerine nasıl oto sorgu yapabilir?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Sol kısımdan Whatsapp sekmesine gelin.\n4-Sonra ilk iki seçeneği seçin.\n5-Sorgu işlemini Whatsapp olan bilgisayarın yapmasını istiyorsanız havuz aktarılsın işaretini kaldırın.\n6-Sonra Whatapp tabını açıp Whatsapp Web entegrasyonunuzu gerçekleştirin.\n7- Entegrasyon gerçekleştikten sonra Bilgi Giriş ekranında bulunan Oto Sorgu butonuna basıp bilgisayarı otomatik sorgulama moduna alın.\n8-Sonra Whatsapp hattınıza plaka TC ve belge seri gibi bilgiler yazıp gönderin. Yapay zeka tüm bilgileri otomatik yükleyip sizin yerinize sorguyu gerçekleştirecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/turkiye-pusula-robot-ekranina-nasil-gecebilirim-4250",
-      "Modul": "Ayarlar",
-      "Soru": "Türkiye Pusula Robot ekranına nasıl geçebilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3)Ekran seçimi bölümünden \"Pusula Robot ekranını kullan\" seçeneğini işaretleyip ayarları kaydedelim.\n4)Türkiye sekmesini kapatıp açabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/whatsapp-yapay-zeka-sorguyu-bitirdiginde-musteriye-link-paylasmayi-nereden-kapatabilirim-4248",
-      "Modul": "Yapay Zeka",
-      "Soru": "Whatsapp Yapay zeka sorguyu bitirdiğinde müşteriye link paylaşmayı nereden kapatabilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Ardından Whatsapp sekmesine gelip \"Whatsapp otomatik sorgu sonrası kullanıcıya link paylaş\" seçeneğini kaldırıp ayarları kaydet tuşuna basalım."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/whatsapp-yapay-zekayi-nasil-aktif-ederim-4247",
-      "Modul": "Yapay Zeka",
-      "Soru": "Whatsapp Yapay zekayı nasıl aktif ederim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3- Ardından Whatsapp sekmesine gelip \"Whatsapp Api bağlantısı yap\" seçeneğini işaretleyip ayarları kaydet tuşuna basalım."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/turkiye-pusula-plus-ekranina-nasil-gecebilirim-4246",
-      "Modul": "Ayarlar",
-      "Soru": "Türkiye Pusula Plus ekranına nasıl geçebilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Türkiye sekmesinde \"Pusula Plus Ekranını Kullan\" işaretleyip ayarları kaydedelim.\n4-Türkiye sekmesini kapatıp açtıktan sonra sorun çözülecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kullanicilarin-yapmis-oldugu-sorgu-adetlerini-ve-kestigi-policeleri-toplu-raporuna-nereden-bakabilirim-4245",
-      "Modul": "Muhasebe",
-      "Soru": "Kullanıcıların yapmış olduğu sorgu adetlerini ve kestiği poliçeleri toplu raporuna nereden bakabilirim",
-      "Cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sol kısımda yer alan menüden rapor işlemlerini tıklayınız.\n3-Açılan menüden şube performans raporlarını seçiniz.\n4-Açılan sayfada tüm işlemleri yapabilirsiniz. Filtreleri kullanabilir Excele aktarabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kullanicilarin-yapmis-oldugu-sorgu-adetlerini-ve-kestigi-policeleri-toplu-raporuna-nereden-bakabilirim-4244",
-      "Modul": "Muhasebe",
-      "Soru": "Kullanıcıların yapmış olduğu sorgu adetlerini ve kestiği poliçeleri toplu raporuna nereden bakabilirim",
-      "Cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sol kısımda yer alan menüden rapor işlemlerini tıklayınız.\n3-Açılan menüden kullanıcı performans raporlarını seçiniz.\n4-Açılan sayfada tüm işlemleri yapabilirsiniz. Filtreleri kullanabilir Excele aktarabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/neova-otomatik-imm-sorgusu-nasil-yaparim-4243",
-      "Modul": "Program Geneli",
-      "Soru": "Neova otomatik İMM sorgusu nasıl yaparım",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Neova sekmesine geliniz. Burada bulunan Neova İMM sorgulaması için yeni tab açı işaretleyiniz.\n4-Hesaplar kısmında Neovafast girişi için ikinci ayrı bir karekod tanımlaması yapmanız gerekmektedir. Bu işlemi yapınız.\n5-Bundan sonra Neova da trafik sorgusunun ardına otomatik imm sorgusu yapacaktır."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kestigimiz-yakalanan-policelere-nasil-erisebilirim-yakalanmayanlari-nasil-bulabilirim-4241",
-      "Modul": "Muhasebe",
-      "Soru": "Kestiğimiz yakalanan poliçelere nasıl erişebilirim. Yakalanmayanları nasıl bulabilirim",
-      "Cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sol kısımda yer alan menüden poliçe işlemlerini tıklayınız.\n3-Açılan menüden yakalan poliçeleri seçiniz.\n4-Açılan sayfada tüm işlemleri yapabilirsiniz. Filtreleri kullanabilir Excele aktarabilirsiniz.\n5-Ayrıca tabloda en sağ kısımda yakalanan poliçenin acente bilgisi de yer alır."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/trafik-uretim-kotasi-dolmus-uyarisi-aliyorum-nereden-takip-edebilirim-4240",
-      "Modul": "Muhasebe",
-      "Soru": "Trafik üretim kotası dolmuş uyarısı alıyorum. Nereden takip edebilirim",
-      "Cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sol kısımda yer alan menüden poliçe işlemlerini tıklayınız.\n3-Açılan menüden kota işlemlerini seçiniz.\n4-Açılan sayfada anlık olarak üretimleri görebilirsiniz. Kotayı aşanlar kırmızı gözükecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/uretimlere-kota-islemi-nasil-ekleyebilirim-4239",
-      "Modul": "Muhasebe",
-      "Soru": "Üretimlere kota işlemi nasıl ekleyebilirim?",
-      "Cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sol kısımda yer alan menüden poliçe işlemlerini tıklayınız.\n3-Açılan menüden kota işlemlerini seçiniz.\n4-Açılan sayfada üstte bulunan kota ekle tuşuna basınız.\n5-Açılan pencereden önce hangi şirkete kota uygulanacak bu seçilir.\n6-Sonra ürün türü seçilir.\n7-Sonra kotaya tabi şubeler eklenir.\n8-Sonra kota türü seçilir.\n9-Ardından altta bulunan Bu ay ata tuşundan kota başlangıç ve bitiş tarihlerine tek seferde ilgili ay atanır.\n10-Ardından kaydet tuşuna basarak ekleme yapılır.\n11-O ana kadar tüm üretimleri çekmek için sayfa da bulunan Anlık Kotaları Güncelle tuşuna basarak şubelerin üretim durumlarını görebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/belirledigim-bir-kasko-sablonunu-butun-subelere-ve-kullanicilara-nasil-gonderebilirim-4237",
-      "Modul": "Kasko",
-      "Soru": "Belirlediğim bir kasko şablonunu bütün şubelere ve kullanıcılara nasıl gönderebilirim?",
-      "Cevap": "1-Bilgi Giriş Ekranını açalım.\n2-\"Kasko Şablonu\" bölümüne tıkladıktan sonra \"Toplu Atama\" seçeneğinden bütün değerleri atayalım.\n3- Bütün değerleri atadıktan sonra sırasıyla \"Şablonu Sabit Kaydet\" ve \"Bilgileri Kaydet\" tuşuna tıklayalım. Son olarak yukarıdaki kilit simgesinden şablonunuzu sabit kılabilirsiniz.\n4- Ardından sağ üstte bulunan sunucu tuşuna basıp gelen menüden Sunucu Ortak Şablon Kaydet seçeneğini seçiniz. Önce onay soracaktır. Buna tamam deyin. Ardından size bu şablonu bütün kullanıcılara sabit şablon yapmak ister misiniz diye onay soracaktır. Buna evet derseniz bu şablon bütün herkese dağıtılacak ve bildirim gidecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/ankara-sigorta-da-trafik-sorgusunda-hangi-fiyatin-yansitilacagini-nasil-secerim-4235",
-      "Modul": "Trafik",
-      "Soru": "Ankara Sigorta'da trafik sorgusunda hangi fiyatın yansıtılacağını nasıl seçerim?",
-      "Cevap": "1- Programın sol üstünde yeşil tik işareti bulunan butona tıklayalım ve kullanıcı bilgisi ekranını açalım.\n2- Açılan ekrandan \"Program Ayarları\" isimli butona tıklayalım.\n3- Sol tarafta bulunan şirketlerden \"Ankara Sigorta\" sekmesini açalım.\n4- Yansıtmak istediğimiz fiyat seçeneğini seçelim.\n5- Ayarları kaydet butonuna tıklayalım."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/fiyat-raporlamayi-nereden-yapabilirim-4234",
-      "Modul": "Program Geneli",
-      "Soru": "Fiyat raporlamayı nereden yapabilirim?",
-      "Cevap": "1- İlk öncelikle Bilgi giriş ekranımıza gelelim.\n2- Ardından alt tarafta bulunan dünya işaretine tıklayalım.\n3- Açılan ekranda hangi seçeneği raporlamak isterseniz tıklayalım (trafik kasko vb)."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/muhasebe-yetkileri-nasil-tanimlanir-4233",
-      "Modul": "Muhasebe",
-      "Soru": "Muhasebe yetkileri nasıl tanımlanır",
-      "Cevap": "1-Sağ üst kısımda bulunan kullanıcı logosunun olduğu tuşa basınız.\n2-Açılan menüden Ayarlar menüsünü seçiniz.\n3-Gelen sayfadan Yetkiler sekmesini tıklayınız.\n4-Aktif yetkiler de Yönetici yetkisi eklenmemişse tüm poliçeleri ve kartları görebilsin ve acenteliklere göre poliçe yakalansın seçip kaydet e basarak ismini Yönetici Yetkisi verip bir yönetici yetkisi tanımlayın.\n5-Sonra şubeler için ise benzer şekilde Kendisinin ve şubesinin poliçelerini ve kartlarını görebilsin seçip şube yetkisi ekleyin.\n6-Daha sonra üst kısımda bulunan Toplu Yetki Ataması'nı tıklayınız\n7-Sonra gelen pencereden atama yapılacak yetkiyi seçiniz.\n8-Sonra tüm kullanıcıları seçip istediklerinizin işaretini kaldırabilirsiniz.\n9-Sonra onayla ile kaydetme işlemi yapın. Benzer şekilde yönetici şube yetkileri toplu atanabilir.\n10-İsterseniz kullanıcıyı seçip sağ kısımda bulunan aktif yetki den yetkisini değiştirip kaydet tuşuna basabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/seker-cok-yavas-calisiyor-ne-yapabilirim-4230",
-      "Modul": "Program Geneli",
-      "Soru": "Şeker çok yavaş çalışıyor ne yapabilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3- Şeker sekmesindeki \"Şeker özel işlem yap\" önündeki tiki kaldırıp ayarları kaydedelim.\n4-Şeker sekmesini kapatıp açarsanız sorun çözülecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/unico-cok-yavas-calisiyor-ne-yapabilirim-4229",
-      "Modul": "Program Geneli",
-      "Soru": "Unico çok yavaş çalışıyor ne yapabilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3- Unico sekmesindeki \"Unico özel işlem yap\" önündeki tiki kaldırıp ayarları kaydedelim.\n4-Unico sekmesini kapatıp açarsanız sorun çözülecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/corpus-cok-yavas-calisiyor-ne-yapabilirim-4228",
-      "Modul": "Program Geneli",
-      "Soru": "Corpus çok yavaş çalışıyor ne yapabilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3- Corpus sekmesindeki \"Corpus özel işlem yap\" önündeki tiki kaldırıp ayarları kaydedelim.\n4-Corpus sekmesini kapatıp açarsanız sorun çözülecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/neova-cok-yavas-calisiyor-ne-yapabilirim-4227",
-      "Modul": "Program Geneli",
-      "Soru": "Neova çok yavaş çalışıyor ne yapabilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3- Neova sekmesindeki \"Neova özel işlem yap\" önündeki tiki kaldırıp ayarları kaydedelim.\n4-Neova sekmesini kapatıp açarsanız sorun çözülecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kasko-sablonunu-nasil-guncelleyebilirim-4225",
-      "Modul": "Kasko",
-      "Soru": "Kasko Şablonunu nasıl güncelleyebilirim?",
-      "Cevap": "1-Bilgi Giriş Ekranını açalım.\n2-\"Kasko Şablonu\" bölümüne tıkladıktan sonra \"Toplu Atama\" seçeneğinden bütün değerleri atayalım.\n3- Bütün değerleri atadıktan sonra sırasıyla \"Şablonu Sabit Kaydet\" ve \"Bilgileri Kaydet\" tuşuna tıklayalım. Son olarak yukarıdaki kilit simgesinden şablonunuzu sabit kılabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/egm-bilgileri-gelmiyor-ne-yapabilirim-4224",
-      "Modul": "Program Geneli",
-      "Soru": "EGM bilgileri gelmiyor ne yapabilirim?",
-      "Cevap": "1-Bilgi Giriş Ekranını açalım.\n2- Sağ taraftaki \"EGM Sorgula\" butonundan bünyenizde bulunan şirketleri deneyebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/sms-ile-giris-yapilan-sirketlerde-oto-girisler-icin-mobil-uygulamayi-nasil-kurabilirim-4222",
-      "Modul": "Kurulum",
-      "Soru": "SMS İle Giriş Yapılan Şirketlerde, Oto Girişler İçin Mobil Uygulamayı Nasıl Kurabilirim?",
-      "Cevap": "DİKKAT! Mobil uygulamayı kurduktan sonra, SMS'leri algılayabilmesi için uygulamanın telefonunuzda muhakkak açık kalması gerekmektedir.\n1- Ekranın sol üst kısmındaki İhsan Yazılım logosuna tıkladıktan sonra açılan \"Sorgulamalar\" ekranında, ekranın en altındaki işaretli linke sağ tıklayarak \"Bağlantıyı kopyala\" dedikten sonra linki telefonumuza aktarıyoruz.\n2- Uygulamayı indirirken çıkan uyarıları onaylayarak devam ediyoruz.\n3- Uygulama açıldığında sağ üstteki profil simgesinden giriş ekranına geliyoruz ve masaüstü programına girerken kullandığımız kullanıcı ile giriş sağlıyoruz.\n4- Giriş yaptıktan sonra sağ altta üç çizgi bulunan butona tıkladıktan sonra, zarf simgesi bulunan butona tıklıyoruz.\n5- Ardından sağ üstteki ayarlar simgesine tıkladıktan sonra telefon numaramızı \"başına 0 koymadan\" yazarak \"Kaydet\" diyoruz.\n6- Uyarı! Bu işlemler yapıldıktan sonra mobil uygulamada SMS'ler alınamıyorsa, uygulama izinlerini kontrol etmeniz gerekmektedir. Uygulama bilgilerine girdikten sonra, izinler kısmından uygulamaya ekrandaki tüm izinleri veriyoruz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/turk-nippon-sfs-nasil-gecebilirim-4221",
-      "Modul": "Ayarlar",
-      "Soru": "Türk Nippon SFS nasıl geçebilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Türk Nippon sekmesine geldikten sonra sağ üstten \"Türk Nippon SFS ekranını kullan\" tuşuna tıklayıp ayarları kaydedebilirsiniz.\n4-Değişikliklerin geçerli olabilmesi için Türk Nippon ekranını kapatıp açabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/sirketlerde-kullanici-adi-sifremi-ve-proxy-ayarlarimi-nasil-degistirebilirim-4219",
-      "Modul": "Ayarlar",
-      "Soru": "Şirketlerde kullanıcı adı, şifremi ve proxy ayarlarımı nasıl değiştirebilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan \"Yönetim İşlemleri\" tuşuna basınız.\n3-Hesaplar bölümünden bağlı olduğumuz hesabı seçtikten sonra yeni kullanıcı adı veya şifreyi yazıp bilgileri kaydedelim.\n4-Proxy girmeniz gerekiyorsa evden çalışma gibi durumlar için merkez şube IP adresi kısmına girebilirsiniz.\n5-Değişiklik yaptığımız şirketin ekranını kapatıp açabiliriz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/yeni-kullanici-nasil-ekleyebilirim-4218",
-      "Modul": "Program Geneli",
-      "Soru": "Yeni kullanıcı nasıl ekleyebilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan \"Yönetim İşlemleri\" tuşuna basınız.\n3-\"Kullanıcı Ekle\" butonuna tıkladıktan sonra yıldızlı alanları doldurup bilgileri kaydedebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/koru-hizli-ekrana-nasil-gecebilirim-4216",
-      "Modul": "Ayarlar",
-      "Soru": "Koru Hızlı Ekrana nasıl geçebilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Koru Sigorta sekmesinde Hızlı Trafik ve Hızlı Kasko seçeneklerini işaretledikten sonra ayarları kaydedebilirsiniz.\n4-Değişikliklerin geçerli olabilmesi için Koru Sigorta ekranını kapatıp açabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/police-kesildigi-zaman-ekranima-uyari-geliyor-nasil-kapatabilirim-4215",
-      "Modul": "Ayarlar",
-      "Soru": "Poliçe kesildiği zaman ekranıma uyarı geliyor nasıl kapatabilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Ardından açılan sayfada genel ayarlar kısmında bulunan kesilen poliçe yakalandığında ekrana uyarı verilsin kutucuğunun tikini kaldıralım."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/ana-sigorta-hizli-ekrana-nasil-gecebilirim-4214",
-      "Modul": "Ayarlar",
-      "Soru": "Ana Sigorta Hızlı ekrana nasıl geçebilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Ana Sigorta sekmesinde Hızlı Trafik ve Hızlı Kasko seçeneklerini işaretledikten sonra ayarları kaydedebilirsiniz.\n4-Değişikliklerin geçerli olabilmesi için Ana Sigorta ekranını kapatıp açabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/program-aksamlari-kapaniyor-ne-yapmaliyim-4213",
-      "Modul": "Ayarlar",
-      "Soru": "Program akşamları kapanıyor ne yapmalıyım?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Genel ayarlar sekmesinde en alttaki \"Program uzun süre hareketsiz kaldığında kapat\" seçeneğinin tikini kaldırıp ayarları kaydedebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/quick-sfs-nasil-gecebilirim-4212",
-      "Modul": "Ayarlar",
-      "Soru": "Quick SFS nasıl geçebilirim?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Quick sekmesine geldikten sonra sağ üstten \"Quick SFS ekranını kullan\" tuşuna tıklayıp ayarları kaydedebilirsiniz.\n4-Değişikliklerin geçerli olabilmesi için Quick Sigorta ekranını kapatıp açabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/ihsanda-gunluk-haftalik-uretim-raporunu-nasil-etkinlestirebilirim-4210",
-      "Modul": "Muhasebe",
-      "Soru": "İhsanda günlük haftalık üretim raporunu nasıl etkinleştirebilirim?",
-      "Cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sağ üst köşede bulunan profil tuşundan ayarları tıklayınız.\n3-Gelen pencereden rapor bildirim ayarlarını sekmesini tıklayınız.\n4-Gelen sekmeden Raporlama bildirimlerini etkinleştir seçeneğini etkinleştirin.\n5-Yetkiye göre bütün firmanın yada şubenin yada kendi yaptığınız üretimin kayıtlarını görebilirsiniz. Şube iseniz sadece kendi şube kayıtlarını göreceksiniz.\n6-Whatsapp dan Gönderilsin işaretleyiniz.\n7-Alıcı adı soyadı ve telefonu giriniz ve ekleye basınız. Yanlış eklediyseniz altta bulunan listeden seçip silebilirsiniz.\n8-Email de almak isterseniz benzer işlemleri yapabilirsiniz.\n9-Altta bulunan seçeneklerden hangi raporları ne zaman hangi periyodla almak istiyorsanız seçin. Saat 17 den önce gönderim yapılmaz.\n10-Tüm işlem sonrası Bildirim Ayarlarını Kaydet seçeneğinden kaydediniz.\n11-Eğer test yapmak isterseniz kaydetme sonrası en altta bulunan Test Raporunu Gönder seçeneğini tıklayıp anlık üretimi alabilirsiniz.\n12-Örnek bir WhatsApp a gelen rapor."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/unico-sigorta-da-karekod-2fa-kurulumu-nasil-yapabilirim-4209",
-      "Modul": "Program Geneli",
-      "Soru": "Unico Sigorta da karekod 2FA kurulumu nasıl yapabilirim",
-      "Cevap": "1-Unico sekmesinde işlemlerde bulunan Karekod sıfırlama sayfasını tıklayınız.\n2-Gelen sayfaya kullanıcı adı ve parolanız ile giriş yapınız.\n3- Gelen ekranda bulunan kurulum anahtarını içeren karekodu sağ tıklayıp farklı kaydediniz ve sonra telefonunuza işleyip onaylama işlemini yapınız.\n4-Sonra işlemler menüsünden Çift yönlü karekod yükle den farklı kaydettiğiniz karekod yükleyiniz. Tüm eşleşen hesaplara otomatik dağıtımı yapılacaktır."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/programimi-beta-versiyona-nasil-guncelleyebilirim-4208",
-      "Modul": "Program Geneli",
-      "Soru": "Programımı beta versiyona nasıl güncelleyebilirim?",
-      "Cevap": "1- \"Güncelleme Yap\" butonunun sağındaki \"V\" simgeli butona tıklıyoruz\n2- \"Beta (Yayınlanacak) Versiyona Güncelle\" butonuna tıklayarak beta güncellemesi yapabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/allianz-karekod-kilitlenmesine-nasil-cozum-bulabilirim-4206",
-      "Modul": "Program Geneli",
-      "Soru": "Allianz karekod kilitlenmesine nasıl çözüm bulabilirim ?",
-      "Cevap": "Allianz'da çok sık yaşanan karekod bloke olayına aşağıdaki adımları uygulayarak çözüm bulabilirsiniz. Yalnız şu hususu göz önünde bulundurun Chrome veya Edge gibi browserlarda Allianz'a hariçten girdiğiniz zaman telefonunuzda kalan eski karekodları denediğinizde bloke ediyor. Lütfen telefonunuzdan da Allianz ile alakalı tüm karekodları silin. Ayrıca başka bir şubenizde de aynı partaj kullanılmakta ise o kişiden de telefondan silmesini talep edin.\n1-Önce sol üst kısım da bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Açılan pencerede sol alt köşede bulunan Yönetim İşlemleri butonuna basınız.\n3-Açılan pencereden Hesaplar bölümüne tıkayınız ve işlem yapmak istediğiniz hesabı seçiniz.\n4-Üstte bulunan Toplu Hesap Atama menüsü içerisinde bulunan 'Allianz'ın şifre ve karekod bilgisini kullanıcı adı eşleşen tüm hesaplardan boşalt' menüsüne tıklayınız.\n5-Sadece yöneticiler bu işlemleri yapabilir ve anlık olarak online olan herkese şifre ve karekod boşaltma talimatı gider.\n6-İşin garanti olması için bu işlem sonunda açılan sekme kapatma penceresinden Allianz'ın bütün kullanıcılardan sekmesini kapatınız.\n7-Daha sonra yeni karekodu alıp tüm hesapları seçiniz.\n8-Aktif olan hesaptaki şifre ile birlikte hesaba karekodu tanımlayıp Toplu Hesap Atama menüsünde en altta bulunan 'Seçili Hesaplardaki Kullanıcı Adı Eşleşen Hesaplara Toplu Kullanıcı Adı, Şifre, IP, Oto Giriş ve Bağlı Eposta Parola Ata' seçeneği ile bütün seçili hesaplara yeni karekodu atayınız."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/program-acilirken-beyaz-ekran-hatasi-veriyor-nasil-cozebilirim-4205",
-      "Modul": "Kurulum",
-      "Soru": "Program açılırken beyaz ekran hatası veriyor nasıl çözebilirim?",
-      "Cevap": "1. İlk öncelikle Google Chrome açalım.\n2. Ardından arama kısmına  ilgili linki kopyalayıp yapıştıralım.\n3. Açılan sayfada yeşil kısımda olan Download Webviev2 Runtime Installer kısmına tıkladıktan sonra indirme işlemi başlamış olacaktır. İndirme işlemi tamamlandığında program açık ise kapatıp açtıktan sonra sorununuz düzelmiş olacaktır."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/unico-web-servis-nasil-talep-ederim-gerekli-islemleri-ogrenebilir-miyim-4204",
-      "Modul": "Web Servis",
-      "Soru": "Unico web servis nasıl talep ederim gerekli işlemleri öğrenebilir miyim?",
-      "Cevap": "1. Unico acenteliğiniz mevcut ise Web servis talep için ilk öncelikle bölge müdürlüğünüzle iletişime geçip İhsan Yazılım kullandığınızı Web servis talep etmek istediğinizi belirtiniz.\n2. Daha sonrasında size appsecuritykey adlı şifre verecekler ilgili bilgiler mail yoluyla sizlere ulaştığı zaman bizimle iletişime geçip web servis tanımlama işlemini sağlayabiliriz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/kendi-ip-adresimi-nereden-ogrenebilirim-4203",
-      "Modul": "Program Geneli",
-      "Soru": "Kendi İp adresimi nereden öğrenebilirim",
-      "Cevap": "1. İlk öncelikle sol üstten sorgulamaların olduğu sayfaya gelelim\n2. Sayfanın sol en altında kendi ip adresinizi görüntüleyebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/program-acilirken-sirketler-cok-yavas-aciliyor-nasil-hizlandirabilirim-4201",
-      "Modul": "Ayarlar",
-      "Soru": "Program açılırken şirketler çok yavaş açılıyor nasıl hızlandırabilirim?",
-      "Cevap": "İhsan Sigorta Hızlı Teklif uygulamasında şirketlerin açılış hızını hızlandırmak için aşağıdaki işlemleri yapabilirsiniz.\n1-Önce sol üst kısım da bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Ardından alt kısımlarda olan saniyede bir sigorta şirketi açılsın seçeneğini *1* saniye olarak ayarlayıp ayarları kaydet dedikten sonra işleminiz gerçekleşmiş olacaktır."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/sirket-sayfalari-acilmiyor-ne-yapabilirim-4200",
-      "Modul": "Program Geneli",
-      "Soru": "Şirket sayfaları açılmıyor ne yapabilirim?",
-      "Cevap": "Proxy hatası alıyorsunuz. Bağlı bulunduğunuz merkezle iletişime geçerek proxy ve IP adresinizi kontrol etmelerini isteyebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/programin-onbellegini-nasil-temizleyebilirim-edge-cache-nasil-temizlenir-4199",
-      "Modul": "Program Geneli",
-      "Soru": "Programın önbelleğini nasıl temizleyebilirim? Edge Cache nasıl temizlenir?",
-      "Cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Genel Ayarlar sekmesinden \"Edge Cache Temizliği\" seçeneğine tıklayalım.\nProgram otomatik olarak kapanıp yeniden açılacaktır. Açıldıktan sonra sorun çözülecektir."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/program-sifremi-unuttum-nasil-guncelleyebilirim-4198",
-      "Modul": "Program Geneli",
-      "Soru": "Program şifremi unuttum nasıl güncelleyebilirim?",
-      "Cevap": "1-Sol alttaki \"Şifremi Unuttum\" seçeneğine tıklayalım.\n2-E-posta adresinizi girdikten sonra \"Gönder\" tuşuna tıklayarak şifrenizi öğrenebilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/sigorta-sirket-sekmelerini-nasil-yukari-alabilirim-4196",
-      "Modul": "Ayarlar",
-      "Soru": "Sigorta şirket sekmelerini nasıl yukarı alabilirim",
-      "Cevap": "İhsan Sigorta Hızlı Teklif uygulamasında bulunan sekmeleri sol kısım yerine yukarı almak için aşağıdaki adımları uygulayabilirsiniz.\n1- Önce sol üst kısım da bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Ardından program ayarları sayfası gelecektir. Bu sayfada genel sekmesinde en üstte bulunan \"Sigorta şirket sekmeleri uygulamanın solunda açılsın\" işareti kaldırılırsa sekmeler üstte açılacaktır."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/program-nasil-kurulur-4195",
-      "Modul": "Kurulum",
-      "Soru": "Program nasıl kurulur",
-      "Cevap": "1-Programı websitemiz adresinde sayfanın en altında bulunan Masaüstü Hızlı Teklif yazan linkten indirip kurabilirsiniz.\n2-Ya da linkini vereceğimiz Youtube videosundan izleyip nasıl kurulduğunu öğrenip çok kolay bir şekilde kurabilirsiniz."
-    },
-    {
-      "URL": "https://sigorta.teklifi.al/sss/acente-kodlari-nasil-eklenir-4194",
-      "Modul": "Muhasebe",
-      "Soru": "Acente kodları nasıl eklenir",
-      "Cevap": "0- Sorgulamalar ekranının üst kısmından \"Muhasebe Modülü\" açılır.\n1-Sağ üst kısımda bulunan kullanıcı logosunun olduğu tuşa basınız.\n2-Açılan menüden Ayarlar menüsünü seçiniz.\n3- Gelen sayfadan yetkiniz dahilinde görebileceğiniz sekmeler vardır. Bunlardan Acentelikleri tıklayınız.\n4- Gelen sayfadan acentesi olduğunuz şirketleri seçip acente nosunu ekleyiniz. Acente ünvanı zorunlu olmasa da ekleyebilirsiniz."
-    }
-  ]
+  {
+    "url": "https://sigorta.teklifi.al/sss/tum-kullanicilara-toplu-duyuru-nasil-gonderilir-4338",
+    "modul": "Program Geneli",
+    "soru": "Tüm kullanıcılara toplu duyuru nasıl gönderilir?",
+    "cevap": "1- Öncelikle 'Sorgulamalar' sayfası çağrılır.\n2- Ardından 'Yönetim İşlemleri' ne tıklayınız.\n3- Gelen sıralamada 'Kullanıcılar' alanına tıklayınız.\n4- Devamında İşlemler alanına tıklayınız.\n5- Tüm kullanıcılara ayar göndermek istiyorsanız sadece filtrelemeye göre seçim yap diyebilirsiniz. Yada filtre belirleyip yine ardından filtrelemeye göre seçim yap diyebilirsiniz.\n6- Seçili kullanıcılara toplu duyuru gönder butonuna basınız.\n7- Duyuru metnini ve ekranda kalacağı süreyi saniye cinsinden yazarak 'Gönder' butonuna tıklayınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/programi-bir-onceki-versiyona-nasil-guncellerim-4337",
+    "modul": "Kurulum",
+    "soru": "Programı bir önceki versiyona nasıl güncellerim?",
+    "cevap": "1- Öncelikle 'Kullanıcı Bilgisi' alanına tıklayınız.\n2- Ardından 'Güncelleme Yap' butonunun sağındaki tuşa tıklarsanız. Oradan 'Bir Önceki Versiyona Güncelleme Yap' butonuna tıklayabilirsiniz.\n3- Program otomatik güncellemeyi alır ve yeniden başlatılır."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/raporlama-ekranimda-red-veren-sirketler-gelmiyor-bu-alani-nasil-duzenlerim-4336",
+    "modul": "Ayarlar",
+    "soru": "Raporlama ekranımda red veren şirketler gelmiyor? Bu alanı nasıl düzenlerim?",
+    "cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik/ Kasko Sonucunu Raporla' alanına tıklayınız.\n2-Ayarlar sekmesine geliniz.\n3-Bu alandaki gerekli ayarların görseldeki şekilde seçili emin olduktan sonra ayarları kaydet butonuna tıklayınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/edge-stabil-versiyonu-nasil-yukleyebilirim-4334",
+    "modul": "Ayarlar",
+    "soru": "Edge stabil versiyonu nasıl yükleyebilirim?",
+    "cevap": "1- Öncelikle 'Kullanıcı Bilgisi' alanını açınız. Devamında 'Program Ayarları' alanını açınız.\n2- Genel Ayarlar sekmesinde \"Edge Stabil Versiyon Yükle\" seçeneğine tıklayabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/mobilden-anlik-kullanici-bazli-sorgulama-raporlarina-nasil-erisebilirim-4333",
+    "modul": "Ayarlar",
+    "soru": "Mobilden anlık kullanıcı bazlı sorgulama raporlarına nasıl erişebilirim?",
+    "cevap": "1- Öncelikle İhsan Sigorta Uygulamamızı açınız.\n2- Sorgulamalar butonuna tıklayınız.\n3- Gelen ekranda Yönetici İşlemleri / Kullanıcı (Bilgisi) butonuna tıklayınız.\n4-Artık anlık kullanıcı sorgulamalarına görseldeki alandan erişebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/mobil-telefondan-anlik-uretimleri-nasil-goruntulerim-mobil-telefondan-kesilen-policelere-nasil-erisebilirim-4332",
+    "modul": "Ayarlar",
+    "soru": "Mobil telefondan anlık üretimleri nasıl görüntülerim? Mobil telefondan kesilen poliçelere nasıl erişebilirim?",
+    "cevap": "1- Öncelikle görselde bulunan 'İhsan Sigorta' adlı uygulamamızı açınız.\n2- 'Sorgulamalar' butonuna tıklayınız.\n3-Gelen ekranda sol üst köşede bulunan 3 çizgiye tıklayınız.\n4-Gelen ekranda en altta bulunan 'Muhasebe' satırına tıklayınız.\n5- Üç çizgiye tıklayınız.\n6-Sayfa ikonuna tıklayınız.\n7- 'Kesilen Poliçeler' alanına tıklayınız.\n8- Görselde görüldüğü şekilde kesilen poliçelerinize ulaşabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/beyaz-ekran-hatasini-nasil-cozebilirim-4331",
+    "modul": "Ayarlar",
+    "soru": "Beyaz ekran hatasını nasıl çözebilirim?",
+    "cevap": "1- Öncelikle 'Kullanıcı Bilgisi' alanını açınız.\n2- Devamında 'Program Ayarları' alanını açınız.\n3- Genel Ayarlar sekmesindeki \"Yapay Zeka Web Servis sorgularında kaynak kullanımını optimize et\" seçeneğinin tikini kaldırıp ayarları kaydedebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/allianz-icin-otomatik-karekod-yenilemeyi-nasil-yapabilirim-4330",
+    "modul": "Program Geneli",
+    "soru": "Allianz için otomatik karekod yenilemeyi nasıl yapabilirim?",
+    "cevap": "1- İlk olarak Allianz sayfasına gelip \"İşlemler Menüsünden Karekod Sıfırlama\" tuşuna basınız.\n2- Ardından ekranınızda açılan kutucuğa OTP kodunun gitmesini istediğiniz telefon numarasını kaydediniz.\n3- Girilecek olan telefon numarası OTP kodunun SMS olarak geleceği telefon olmak zorundadır.\n4- Telefon numarası girildikten sonra OTP kodunun geldiği telefon android ve aynı telefonda ihsan mobil uygulaması yüklü olup arka planda çalışıyor ise OTP kodu otomatik şekilde ekranınıza gelecektir.\n5- Ekranda bulunan karekod kullanıcı adı eşleşen tüm hesaplara atanacak ve karekod otomatik olarak onaylanacak.\n6- İşlemler bittiğinde otomatik olarak giriş sayfasına yönlendirileceksiniz. Giriş sayfasında bulunan kullanıcı adı girilen kısımda kullanıcı adınız yazıyor ise işlem başarıyla tamamlanmış demektir.\nNot: Allianz Sigorta Karekod yenileme sayfasında bulunan bir sorundan dolayı sıfırlama işlemi tek seferde tamamlanmayabiliyor. 6. adımda belirtilen işlemler olmazsa adımları tekrarlayarak işlemlerinize devam edebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/yapay-zekaya-nasil-tss-teklifi-baktirabilirim-4329",
+    "modul": "Kurulum",
+    "soru": "Yapay Zekaya nasıl TSS teklifi baktırabilirim?",
+    "cevap": "1- Öncelikle kullanıcı bilgisi kısmından program ayarlarına gelip Whatsapp kısmındaki ayarları görseldeki gibi düzenlemeniz gerekmektedir.\n2- Ardından İhsan Hızlı Teklif programımıza Whatsapp hesabınızı bağlamanız gerekmektedir. Bunu bilgi girişi ekranının alt kısmındaki WhatsApp ikonuna tıklayarak yapabilirsiniz.\n3- WhatsApp açıldıktan sonra işlemler butonunun yanındaki \"Yapay Zeka\" butonunu seçip açılan pencereden \"Yapay Zeka Devrede\" kısmını \"ON\" şeklinde ayarlayıp bilgileri kaydetmeniz gerekmektedir.\n4- WhatsApp tabı açıkken yukarıdaki dünya sembolü olan buton ile sırada bekleyen oto sorgularınızı kontrol edebilirsiniz.\n5- Oto Sorgulara başlamadan önce WhatsApp ekranındayken işlemler yanındaki yeşil tikin ekrana gelmiş olması gerekmektedir.\n6- Son adım olarak Sağlık Bilgi Girişi kısmının altında bulunan Oto Sorgu butonunu görseldeki gibi olacak şekilde seçiniz.\n7- Artık müşterilerinizin ya da çalışma arkadaşlarınızın sizlere \"TSS teklifi alabilir miyim?\" diye sormasına hazırsınız :) Siz arkanıza yaslanın, gerisini Yapay Zeka kendisi halledecektir :) Aşağıda örnek bir sohbet görebilirsiniz.\n8-\n9-\n10-\n11-\n12-"
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/hdi-sigorta-ekrani-nasil-degistirilir-hdi-plus-ekranina-nasil-gecerim-4327",
+    "modul": "Kurulum",
+    "soru": "HDI Sigorta ekranı nasıl değiştirilir? HDI Plus ekranına nasıl geçerim?",
+    "cevap": "1- Öncelikle 'Kullanıcı Bilgisi' alanını açınız. Devamında 'Program Ayarları' alanını açınız.\n2- HDI sekmesine tıklayız.\n3-'Ekran seçimi' alanından 'Hdı Plus Ekranını Kullan' alanını seçiniz.\n4- HDI ekranınızı yeniden başlatınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/program-uzerinden-islemci-hizi-nasil-olculur-4326",
+    "modul": "Ayarlar",
+    "soru": "Program üzerinden işlemci hızı nasıl ölçülür?",
+    "cevap": "1- Öncelikle yeşil check işaretli butona tıklayarak kullanıcı bilgisi alanını açınız.\n2- İşlemci hızını ölç butonuna tıklayınız.\n3- Bu alanda işlemci hızınızı öğrenebilirsiniz.\nNOT: Programın randımanlı çalışabilmesi için işlemci hızınızın 4000 puan ve üstü olması gereklidir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/allianz-qr-kodum-hata-veriyor-degisti-nasil-yenileyebilirim-4325",
+    "modul": "Program Geneli",
+    "soru": "Allianz QR kodum hata veriyor/değişti nasıl yenileyebilirim?",
+    "cevap": "1- Öncelikle Allianz ekranına giderek girişten sonraki doğrulama kodu ekranına geliniz.\n2- Kodunuz değiştiğinde veya hata verdiğinde bu ekrandan girişin altında `QR Code yenile` seçeneğine basınız.\n3- Açılan ekrana telefonunuza gelen OTP kodunu kaydedip, QR kodunuzun ekran görüntüsünü alıp `QR Code Kayıt` tuşuna basınız.\n4- Kaydettiğiniz QR kodunu paint ya da WhatsApp'ı kullanarak bilgisayar masaüstünüze indiriniz.\n5-  sitesini internetten açarak QR kodunuzu ilgili kısma sürükleyip anahtarınızın gelmesini bekleyiniz.\n6- Ardından ekrana gelen linkin \"=\" ile \"&\" sembolleri arasındaki anahtarı kopyalayın. Bu sizin QR kodunuzun deşifre edilmiş anahtarıdır.\n7- Daha sonra kopyaladığınız kodu \"Yönetim İşlemleri\" ve \"Hesaplar\" ekranına giderek ilgili olduğu hesabın Allianz gizli anahtar kısmına yapıştırıp bilgileri kaydediniz.\n8- Artık tanımladığınız yeni QR ile Allianz'a giriş yapabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/anadolu-sigorta-ya-giriste-hata-nasil-giderilir-4323",
+    "modul": "Ayarlar",
+    "soru": "Anadolu Sigorta'ya girişte hata nasıl giderilir?",
+    "cevap": "1- Öncelikle 'Kullanıcı Bilgisi' alanını açınız.\n2- Devamında 'Program Ayarları' alanını açınız.\n3- Anadolu sekmesine tıklayız ve 'Login ekranını kullanmadan giriş yap' kutucuğunu tikleyiniz.\n4- Anadolu ekranınızı yeniden başlatınız.\n5- Giriş yaparken bu şekilde bir amblemimiz ekranınıza gelerek giriş yapacaksınızdır. Devamında sorgulamanızı yeniden başlatabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/axa-ya-giriste-hata-nasil-giderilir-4322",
+    "modul": "Ayarlar",
+    "soru": "Axa'ya girişte hata nasıl giderilir?",
+    "cevap": "Görseldeki gibi hatalar alıyor iseniz aşağıdaki adımları uygulamalısınız.\n1- Öncelikle 'Kullanıcı Bilgisi' alanını açınız.\n2- Devamında 'Program Ayarları' alanını açınız.\n3- Axa sekmesine tıklayız ve 'Login ekranını kullanmadan giriş yap' kutucuğunu tikleyiniz.\n4- Axa ekranınızı yeniden başlatınız.\n5- Giriş yaparken bu şekilde bir amblemimiz ekranınıza gelerek giriş yapacaksınızdır. Devamında sorgulamanızı yeniden başlatabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/tramer-kullanici-adimi-ve-sifremi-nasil-degistiririm-guncellerim-4321",
+    "modul": "Ayarlar",
+    "soru": "Tramer kullanıcı adımı ve şifremi nasıl değiştiririm/güncellerim?",
+    "cevap": "1- Öncelikle kullanıcı bilgisi kısmından yönetim işlemlerini açınız.\n2- Şifresini değiştirmek istediğiniz hesabı hesaplar kısmından bulunuz.\n3- Yeni kullanıcı adı ve şifresini tramer alanına giriniz.\n4- Bilgileri kaydediniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/guncelleme-nasil-yaparim-4320",
+    "modul": "Ayarlar",
+    "soru": "Güncelleme nasıl yaparım?",
+    "cevap": "1- 'Kullanıcı Bilgisi' alanına tıklayınız.\n2- Devamında 'Güncelleme yap' Butonuna tıklayarak güncelleme alabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/raporlama-ekraninda-yer-alan-firma-logosu-nasil-degistirilir-firma-logosu-nasil-yuklenir-4319",
+    "modul": "Program Geneli",
+    "soru": "Raporlama ekranında yer alan; Firma logosu nasıl değiştirilir? Firma logosu nasıl yüklenir?",
+    "cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik/ Kasko Sonucunu Raporla' alanına tıklayınız.\n2-'Logo Yükle' yazılı alanın sağındaki ok işaretine tıklayarak 'Firma logosu Yükle' alanına tıklayınız.\n3- Gelen ekrandan yükleyebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/raporlama-ekraninda-yer-alan-sube-logosu-nasil-degistirilir-sube-logosu-nasil-yuklenir-4318",
+    "modul": "Program Geneli",
+    "soru": "Raporlama ekranında yer alan; Şube logosu nasıl değiştirilir? Şube logosu nasıl yüklenir?",
+    "cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik/ Kasko Sonucunu Raporla' alanına tıklayınız.\n2-'Logo Yükle' yazılı alanın sağındaki ok işaretine tıklayarak 'Şube logosu Yükle' alanına tıklayınız.\n3- Gelen ekrandan yükleyebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/sifremi-unuttum-kullanicim-sifresini-unutmus-nasil-gorebilirim-4317",
+    "modul": "Program Geneli",
+    "soru": "Şifremi unuttum / kullanıcım şifresini unutmuş nasıl görebilirim?",
+    "cevap": "1- Şifreyi hatırlamak için iki farklı yöntem vardır. Bunlardan birisi girişte şifremi unuttum seçeneğine basarak şifrenizi yenilemektir. Şifrenizi yenilemek istemiyorsanız yönetim işlemleri açık olan bir hesaptan şifrenizi görüntüleyebilirsiniz.\n2- Bunun için yönetim işlemleri açık olan birisinden yardım almanız gerekli. Hesabına giriş yapmış olan kullanıcı \"Yönetim işlemleri\" kısmına girerek kullanıcılardan sizi bulmalıdır.\n3- Ardından isminizin üzerine tıklayarak şifre ve mail bilgilerinize erişebilir. Oradaki şifre ile hesabınıza giriş yapabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/gecmis-kasko-sorgularina-nasil-erisebilirim-4316",
+    "modul": "Kasko",
+    "soru": "Geçmiş kasko sorgularına nasıl erişebilirim?",
+    "cevap": "1-Öncelikle Sorgulamalar alanına geliniz.\n2-Kasko Sorgulamaları alanından 2023 Eylül ayı ve sonrası olan verilerinize erişebilirsiniz.\n3- Geçmiş Kasko Sorgulamaları alanından Eylül ayı öncesi verilerinize ulaşabilirsiniz.\nNot: Diğer bir seçenek arama yapmak istediğiniz plakayı yazıp büyüteç sembolüne tıklayarak verilerinize erişebilirsiniz. Bu işlem için  linkten yardım alabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/gecmis-trafik-sorgularina-nasil-erisebilirim-4315",
+    "modul": "Trafik",
+    "soru": "Geçmiş trafik sorgularına nasıl erişebilirim?",
+    "cevap": "1-Öncelikle Sorgulamalar alanına geliniz.\n2-Trafik Sorgulamaları alanından 2023 Eylül ayı ve sonrası olan verilerinize erişebilirsiniz.\n3- Geçmiş Trafik Sorgulamaları alanından Eylül ayı öncesi verilerinize ulaşabilirsiniz.\nNot: Diğer bir seçenek arama yapmak istediğiniz plakayı yazıp büyüteç sembolüne tıklayarak verilerinize erişebilirsiniz. Bu işlem için  linkten yardım alabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/ayni-farkli-subeden-iki-kisi-ayni-plakayi-sorgularsa-sorgulama-nasil-gozukur-4314",
+    "modul": "Kurulum",
+    "soru": "Aynı/Farklı şubeden iki kişi aynı plakayı sorgularsa; sorgulama nasıl gözükür?",
+    "cevap": "- Aynı şubedeki iki kişi aynı plakayı sorgulama yaparsa; ikinci sorgulayan ilk sorgulayanın üstüne kaydedilir.\n- Farklı şubedeki iki kişi aynı plakayı sorgulama yaparsa; ilk sorgulayan ile karışmaz. İkinci sorgulama kopya olarak kaydedilir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/gecmis-sorgulama-kaydi-nasil-cagirilir-kisayolu-nedir-4313",
+    "modul": "Toplu İşlemler",
+    "soru": "Geçmiş sorgulama kaydı nasıl çağırılır? Kısayolu nedir?",
+    "cevap": "1- Bilgi giriş ekranında plakayı yazdıktan sonra hemen yanındaki büyüteç işaretine tıklayınız.\n- Böylece bu plakaya ait en son ki aramanız karşınıza gelecektir.\n2-Kısayolu nedir?\n- Kısayol olarak; ' Alt + Enter ' yaparsanız büyüteçle aynı görevi görür."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/tavsiye-edebileceginiz-bilgisayar-modelleri-nelerdir-4311",
+    "modul": "Kurulum",
+    "soru": "Tavsiye edebileceğiniz bilgisayar modelleri nelerdir?",
+    "cevap": "1- Uygun fiyatlı ve uzun ömürlü olmak üzere iki seçenek bulunmaktadır.\n2- Uygun Fiyatlı Sistem Önerileri\n\n3- Uzun Ömürlü Sistem Önerileri"
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/program-ilk-acilista-sirket-sayfalari-cok-yavas-aciliyor-nasil-hizlandiririm-4310",
+    "modul": "Ayarlar",
+    "soru": "Program ilk açılışta şirket sayfaları çok yavaş açılıyor. Nasıl hızlandırırım?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Program ayarları Genel ayarlar sekmesindeki varsayılan değeri 1sn olarak güncelleyiniz. 'Ayarları Kaydet' butonuna tıklayınız.\nNot: Artık program açılışında sigorta ekranları çok daha hızlı açılacaklar."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/sisteme-kayitli-kesilen-policeyi-nasil-duzenleyip-silebilirim-4309",
+    "modul": "Ayarlar",
+    "soru": "Sisteme kayıtlı kesilen poliçeyi nasıl düzenleyip silebilirim?",
+    "cevap": "1- Sorgulamalar ekranı açılır.\n2-'Muhasebe Modülü' alanını açınız.\n3- 'Poliçe İşlemleri' sembolüne tıklayınız.\n4- Devamında 'Kesilen Poliçeler' alanına tıklayınız.\n5- Gelen ekranda kestiğiniz poliçenin üzerinde sağ tıklayarak 'Poliçeyi Düzenle/Poliçe Dosyasını Görüntüle/Poliçeyi Sil' seçeneklerine tıklayarak işlemlerinize devam edebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/farkli-kullanicilar-ayni-hesabi-kullanabilir-mi-kullanicilari-hesaplara-nasil-baglayabilirim-bir-kullanici-birden-fazla-hesaba-erisim-saglayabilir-mi-4308",
+    "modul": "Ayarlar",
+    "soru": "Farklı kullanıcılar aynı hesabı kullanabilir mi? Kullanıcıları hesaplara nasıl bağlayabilirim? Bir kullanıcı birden fazla hesaba erişim sağlayabilir mi?",
+    "cevap": "1- İhsan yazılımı kullanmak üzere oluşturduğunuz kullanıcılarınız Tramer bilgileri farklı olmak koşulu ile şirketlere aynı hesap üzerinden giriş yapabilirler.\n2- Ancak aynı hesaba birden fazla kullanıcı bağlamak oturum düşmelerine daha fazla sebebiyet vermektedir.\n3- Yönetim işlemlerinden hesaplarınızı oluşturduktan sonra kullanıcı profiline geliniz.\n4- Sağ alt kısımdan kullanıcınızı bağlamak istediğiniz hesapları seçebilirsiniz. 4 farklı hesaba bağlama imkanınız bulunmaktadır.\n5- Bilgileri kaydetmeyi unutmayınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/anadolu-asos-ekranina-nasil-gecebilirim-4307",
+    "modul": "Ayarlar",
+    "soru": "Anadolu Asos ekranına nasıl geçebilirim?",
+    "cevap": "1- Program ayarlarından Anadolu sayfasına geliniz.\n2- Ekran seçimi kısmından ASOS seçeneğini seçiniz.\n3- Anadolu Asos ekranı kullan seçeneğini seçiniz.\n4- Ayarları kaydediniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/sompo-ana-sayfada-sol-taraftaki-alanlari-acamiyorum-nasil-acabilirim-4306",
+    "modul": "Program Geneli",
+    "soru": "Sompo Ana sayfada sol taraftaki alanları açamıyorum. Nasıl açabilirim?",
+    "cevap": "1-Sompo Anasayfa'yı açınız.\n2- Devamında Anasayfa'yı Yükle butonuna tıklayınız.\n3-Anasayfanız yüklendiği için artık programı kullanabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/sompo-ana-sayfayi-nasil-acabilirim-4305",
+    "modul": "Kurulum",
+    "soru": "Sompo Ana sayfayı nasıl açabilirim?",
+    "cevap": "1- Sompo'ya giriş yapınız.\n2- Giriş yaptıktan sonra 'Hızlı Satış Ekranı'nda iseniz 'İşlemler'/'Anasayfa' butonuna tıklayınız.\n3-Ekranınız bu şekilde gelecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/sompo-sfs-nasil-acabilirim-4304",
+    "modul": "Program Geneli",
+    "soru": "Sompo SFS nasıl açabilirim?",
+    "cevap": "1- Sompo'ya giriş yapınız.\n2- Devamında yukarıda bulunan 'SFS Tabı Aç' butonuna tıklayınız.\n3- Sfs ekranı bu şekilde açılacaktır."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/daha-onceden-kesilmis-olan-policelerin-bitimi-yaklasan-kisileri-nereden-goruntuleyebilirim-4303",
+    "modul": "Muhasebe",
+    "soru": "Daha önceden kesilmiş olan poliçelerin bitimi yaklaşan kişileri nereden görüntüleyebilirim?",
+    "cevap": "1-Sorgulamalar ekranı açılır.\n2-'Muhasebe Modülü' alanını açınız.\n3- 'Poliçe İşlemleri' sembolüne tıklayınız.\n4-Devamında 'Poliçe Listele' butonuna tıklayınız.\n5-'Hazır Filtreler' alanına tıklayınız.\n6-'Bitime 10 gün kala poliçeler' veya 'Bitime 15 gün kalan poliçeler' alanlarına tıklayınız.\n7-Aşağı alanda gelen poliçeleri görüntüleyebilirsiniz.\nNot: Poliçelerin en sağında bulunan Bildir kısmına tıklayarak WhatsApp üzerinden kişilerle iletişime geçebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/fiyat-raporlama-ekraninda-tc-sasi-ve-motor-numarasini-gizleyebilir-miyim-nasil-kaldirabilirim-4301",
+    "modul": "Program Geneli",
+    "soru": "Fiyat raporlama ekranında TC, şasi ve motor numarasını gizleyebilir miyim? Nasıl kaldırabilirim?",
+    "cevap": "1- Fiyat raporlama ekranının üst bölümünde yer alan ayarlar sayfası açılır.\n2- Seçeneklerin en altında yer alan \"Fiyat raporlama ekranında TC, şasi ve motor numarasını tahmin edilemez (***) yap\" seçeneği aktif edilir. Ayarlar kaydedilir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/fiyat-raporlama-ekraninda-red-veren-sirketlerin-listelenmesini-istemiyorum-nasil-kaldirabilirim-4300",
+    "modul": "Program Geneli",
+    "soru": "Fiyat raporlama ekranında red veren şirketlerin listelenmesini istemiyorum. Nasıl kaldırabilirim?",
+    "cevap": "1- Fiyat raporlama ekranının üst bölümünde yer alan ayarlar sayfası açılır.\n2- Seçeneklerin en altında yer alan \"Fiyat raporlama ekranında red veren şirketler de listelensin\" işaretli ise kaldırılır. Ayarlar kaydedilir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kesilen-police-ekrani-nedir-ne-ise-yarar-yakalanan-police-bilgileri-ne-oluyor-ne-amacli-kullaniliyor-bu-ekranda-bilgiler-yanlis-yada-eksik-olunca-ne-olur-4299",
+    "modul": "Program Geneli",
+    "soru": "Kesilen poliçe ekranı nedir, ne işe yarar? Yakalanan poliçe bilgileri ne oluyor? Ne amaçlı kullanılıyor? Bu ekranda bilgiler yanlış yada eksik olunca ne olur?",
+    "cevap": "1- Kesilen poliçe ekranı, poliçenizi kestikten sonra bilgileri kaydetmek için doldurmanız gereken bir bilgi ekranıdır.\n2- Özellikle şubeli firmalarda poliçelerin takibi açısından oldukça önemli bir özellik olmakla birlikte; küçük ve orta ölçekli acentelerin anlık üretimlerini takip etmek ve gün sonu raporunda doğru bilgileri elde etmek için bu bilgilerin doğru şekilde girilmesi önemlidir.\n3- Bu kayıt işlemi sayesinde kestiğiniz tüm poliçeler muhasebe modülünüzde detaylı şekilde görünecektir. Bu aynı zamanda günlük rapor bildirimleri ile telefonunuza gelen raporların daha doğru bir şekilde sizlere aktarılmasını sağlar.\n4- Eğer bu özelliği kullanmayıp ekrana çıktığında \"Poliçeyi Kaydetme\" seçeneğine basarsanız tüm üretimlerinizi tek tek excele yazmakla zaman kaybetmek zorunda kalacaksınız.\n5- Biz elimizden geldiği kadar bütün PDF'lerden en doğru dataları almaya çalışıyor, sizin iş yükünüzü hafifletmeye çalışıyoruz. Size sadece kaydet tuşuna basmak kalıyor. Fakat PDF dosyalarında değişiklikler meydana geldiği zaman bilgilerin temininde eksiklikler veya yanlışlıklar olabiliyor. Böyle durumlarda ilgili PDF dosyasını bize iletirseniz bunları da sisteme işliyoruz. Bu sayede sonraki poliçelerinizde düzgün bilgiler elde etmiş oluyorsunuz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/geribildirimi-nasil-atabilirim-4298",
+    "modul": "Program Geneli",
+    "soru": "Geribildirimi nasıl atabilirim?",
+    "cevap": "1- Bilgi giriş ekranı veya sorgulamalar ekranının sağ üst köşesinde bulunan işaretli kutucuğa basınız.\n2- Açılan ekrandan sorunun türünü/modülünü vb. bilgileri doldurunuz. Hemen altındaki kısımdan sorununuzla ilgili bir \"Başlık\" ve \"Açıklama\" giriniz. Dilerseniz ekran görüntüsü veya videosu alabilir, sorununuzla ilgili dosyayı da geri bildiriminize ekleyebilirsiniz.\n3- En son gönder seçeneğine tıklayarak geri bildiriminizi bizlere ulaştırabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kesilen-policeleri-nasil-kaydederim-kesilen-police-bildirme-ekrani-nedir-ne-ise-yarar-ne-gibi-ozellikleri-vardir-4297",
+    "modul": "Program Geneli",
+    "soru": "Kesilen poliçeleri nasıl kaydederim. Kesilen poliçe bildirme ekranı nedir? Ne işe yarar? Ne gibi özellikleri vardır?",
+    "cevap": "1- Kesilen poliçelerle birlikte otomatik açılan bu ekranı bilgi girişi içindeki \"Muhasebe İşlemleri\" kısmından da açabilirsiniz.\n2- Açılan ekran 4 kutucuğa ayrılmış bir rapor ekranı olacaktır. Kestiğiniz poliçenin PDF versiyonunu sol alt kısımdan ekleyerek bilgileri otomatik olarak doldurabilirsiniz.\n3- Poliçe ile ilgili temel bilgileri 3. kutucuktaki bölüme giriniz.\n4- Tanzim tarihi, başlangıç ve bitiş tarihi bilgilerini giriniz.\n5- Poliçe Prim bilgilerini giriniz.\n6- Acente ve müşteri bilgilerini de ekleyiniz.\n7- Son olarak poliçeyi kaydet butonuna basarak poliçeyi kaydedebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/butun-kullanicilarimi-guncel-versiyona-nasil-gecirebilirim-guncellestirme-islemini-toplu-sekilde-nasil-yapabilirim-4296",
+    "modul": "Toplu İşlemler",
+    "soru": "Bütün kullanıcılarımı güncel versiyona nasıl geçirebilirim? Güncelleştirme işlemini toplu şekilde nasıl yapabilirim?",
+    "cevap": "1- Sorgulamalar ekranından Yönetici İşlemleri seçeneğini açınız.\n2- Kullanıcılar kısmına giriniz.\n3- Açılan sayfanın sol üst kısmından işlemler seçeneğine basıp \"İşlem Yap\" kutucuğunun yanındaki ok işaretine basınız.\n4- Açılan bölümden Seçilen Kullanıcılara Güncelleştirme Yap seçeneğine basınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/butun-kullanicilarimi-beta-versiyona-nasil-gecirebilirim-4295",
+    "modul": "Toplu İşlemler",
+    "soru": "Bütün kullanıcılarımı beta versiyona nasıl geçirebilirim?",
+    "cevap": "1- Sorgulamalar ekranından Yönetici İşlemleri seçeneğini açınız.\n2- Kullanıcılar kısmına giriniz.\n3- Açılan sayfanın sol üst kısmından işlemler seçeneğine basıp \"İşlem Yap\" kutucuğunun yanındaki ok işaretine basınız.\n4- Açılan bölümden seçilen kullanıcılara beta güncelleştirme yap seçeneğine basınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kesilen-policeyi-whatsapp-uzerinden-nasil-gonderebilirim-4294",
+    "modul": "Program Geneli",
+    "soru": "Kesilen poliçeyi Whatsapp üzerinden nasıl gönderebilirim?",
+    "cevap": "1- Bilgi girişi ekranından \"Muhasebe İşlemleri\" kısmına giriniz.\n2- Açılan ekranın üst kısmından Whatsapp Özellikleri kısmına giriniz.\n3- Poliçeyi göndermek istediğiniz numara bilgilerini ekrana girerek gönder butonuna basabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/fiyatlari-raporlarken-sadece-fiyat-ve-arac-bilgilerinin-goruntusunu-nasil-raporlayabilirim-4292",
+    "modul": "Trafik",
+    "soru": "Fiyatları raporlarken sadece fiyat ve araç bilgilerinin görüntüsünü nasıl raporlayabilirim?",
+    "cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik Sonucunu Raporla' alanına tıklayınız.\n2-Sadece fiyat ve araç bilgileri görüntüsünü almak isterseniz. Aşağıdaki alandan 'Sadece fiyat ve araç bilgilerinin görüntüsü al' seçeneğine tıklayınız.\n3- Ekranınıza bu şekilde bilgi verilir.\n4- Fiyatlarınızın raporlaması aşağıdaki şekilde gönderilir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/raporlama-yaparken-sadece-trafik-fiyatlarini-nasil-raporlayabilirim-4291",
+    "modul": "Trafik",
+    "soru": "Raporlama yaparken sadece trafik fiyatlarını nasıl raporlayabilirim?",
+    "cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik Sonucunu Raporla' alanına tıklayınız.\n2-Sadece fiyat görüntüsünü almak isterseniz. Aşağıdaki alandan 'Sadece fiyat görüntüsü al' seçeneğine tıklayınız.\n3-Ekranınıza bu şekilde bilgi verilir.\n4-Fiyatlarınızın raporlaması aşağıdaki şekilde gönderilir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/trafik-rapor-sonucunu-nasil-kopyalariz-4290",
+    "modul": "Trafik",
+    "soru": "Trafik rapor sonucunu nasıl kopyalarız?",
+    "cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik Sonucunu Raporla' alanına tıklayınız.\n2-Fiyatların yazısını işaretli yerden kopyalayabilirsiniz.\n3-Bu şekilde gönderilir fiyatlarınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/trafik-fiyatlarini-raporlarken-taksit-ve-ekstra-bilgiler-alanini-nasil-kaldiririm-4289",
+    "modul": "Trafik",
+    "soru": "Trafik fiyatlarını raporlarken Taksit ve Ekstra Bilgiler alanını nasıl kaldırırım?",
+    "cevap": "1-Öncelikle 'Bilgi Girişi' ekranından sorgulama yaptığınız plakanın raporlama ekranına gitmek için; Görseldeki butona tıklayarak 'Trafik Sonucunu Raporla' alanına tıklayınız.\n2-Devamında gelen ekranda sarı renk ile işaretli kısım gözükmemesi için 'Gösterilmesin' seçeneğine tıklayınız.\n3-Ekranınızda 'Taksit' ve 'Ekstra Bilgiler' alanı kalkacaktır. Artık ekran görüntüsünü bu şekilde gönderebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kasko-raporumu-tek-sayfada-nasil-getiririm-4288",
+    "modul": "Kasko",
+    "soru": "Kasko raporumu tek sayfada nasıl getiririm?",
+    "cevap": "1-Bunun için öncelikle 'Bilgi Girişi' ekranından 'Kasko Sonucunu Raporla' alanına tıklayınız.\n2-Devamında gelen ekranda 'Ayarlar' sekmesine tıklayınız.\n3-'Kasko rapor sonucu iki parça halinde kopyalansın' seçeneğinin tikini kaldırınız. 'Ayarları Kaydet' butonuna tıklayınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/uygulamaya-giris-yaparken-ekranima-asagidaki-uyari-geliyor-ve-uygulama-acilmiyor-ne-yapmaliyim-4287",
+    "modul": "Program Geneli",
+    "soru": "Uygulamaya giriş yaparken ekranıma aşağıdaki uyarı geliyor ve uygulama açılmıyor. Ne yapmalıyım?",
+    "cevap": "1- Eğer görseldeki uyarıyı alıyorsanız zarar veren bir uygulamadan dolayı hesabınızın girişi kitlenmiştir.\nAşağıdaki destek numaralarımızdan herhangi birini arayarak bizlerden destek alabilirsiniz.\n0 505 986 51 66 (Destek 1)\n0 506 850 51 66 (Destek 2)\n0 532 405 51 66 (Destek 3)\n0 533 156 51 66 (Destek 4)"
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kesilen-police-yakalandiginda-ekrana-uyari-gelmesi-nasil-engellenir-4286",
+    "modul": "Ayarlar",
+    "soru": "Kesilen poliçe yakalandığında ekrana uyarı gelmesi nasıl engellenir?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-'Genel Ayarlar' ekranındaki 'Kesilen poliçe yakalandığında ekrana uyarı verilsin' tikini kaldırmalısınız.\n4-'Ayarları kaydet' tuşuna basınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/turk-nippon-yeni-sfs-ekranina-nasil-geceriz-4285",
+    "modul": "Ayarlar",
+    "soru": "Türk Nippon Yeni SFS ekranına nasıl geçeriz?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Türk Nippon sekmesine geldikten sonra sağ üstten \"Türk Nippon Yeni SFS ekranını kullan\" tuşuna tıklayıp ayarları kaydedebilirsiniz.\n4-Değişikliklerin geçerli olabilmesi için Türk Nippon ekranını kapatıp açabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kullanicinin-telefon-numarasini-nereden-guncelleriz-4283",
+    "modul": "Ayarlar",
+    "soru": "Kullanıcının telefon numarasını nereden güncelleriz?",
+    "cevap": "1- Öncelikle kullanıcı bilgisi alanını açınız.\n2-Yönetim işlemleri ekranı açınız.\n3- Devamında 'Kullanıcılar' alanında telefon numarasını değiştirmek istediğiniz alana tıklayınız.\n4- Sağ ekranda 'Sabit Tel' yada 'GSM No' değiştirebilirsiniz. Bilgileri Kaydet butonuna tıklayınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/subenin-telefon-numarasini-nereden-guncelleriz-4282",
+    "modul": "Ayarlar",
+    "soru": "Şubenin telefon numarasını nereden güncelleriz?",
+    "cevap": "1- Öncelikle kullanıcı bilgisi alanı açılır.\n2-Yönetim işlemleri ekranı açılır.\n3- Devamında 'Şubeler' alanında telefon numarasını değiştirmek istediğiniz alana tıklayınız.\n4- Sağ ekranda 'Sabit Tel' yada 'GSM No' değiştirebilirsiniz. Bilgileri Kaydet butonuna tıklayınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/yapay-zekada-arka-kismin-background-resmi-kullanilmasi-nasil-kapatilir-4281",
+    "modul": "Program Geneli",
+    "soru": "Yapay zekada arka kısmın background resmi kullanılması nasıl kapatılır?",
+    "cevap": "1- Kullanıcı bilgisi kısmından program ayarları açılır.\n2- Genel ayarlar kısmından \"Yapay Zeka Web Servis sorgularında kaynak kullanımını optimize et\" seçeneği kaldırılır."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/trafik-ve-kasko-teklifi-raporunda-firma-adimi-nasil-duzenleyebilirim-4277",
+    "modul": "Program Geneli",
+    "soru": "Trafik ve Kasko teklifi raporunda firma adımı nasıl düzenleyebilirim?",
+    "cevap": "1- Bilgi girişi ekranında sorgu yapıldıktan sonra raporlama seçeneğine tıklanır.\n2- Açılan raporun sağ üst kısmından ayarlar butonuna tıklanır.\n3- Raporlama ekranındaki Firma adı bilgisini şununla değiş seçeneği seçilerek istenen firma adı girilir.\n4- Ekranın alt kısmından ayarlar kaydedilir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/trafik-ve-kasko-tekliflerinde-sadece-fiyat-bilgisini-nasil-kopyalayip-musterimle-paylasabilirim-4276",
+    "modul": "Program Geneli",
+    "soru": "Trafik ve Kasko tekliflerinde sadece fiyat bilgisini nasıl kopyalayıp müşterimle paylaşabilirim?",
+    "cevap": "1- Bilgi giriş ekranından Trafik/Kasko sonucunu raporla seçeneği seçilir.\n2- Ekran görüntüsü butonunun yanındaki kopyalama işaretine tıklanır.\n3- Kopyalanan metni istediğiniz yere Ctrl+v yaparak yapıştırabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/tramerde-guvenlik-resmini-cozme-ekrani-surekli-geliyor-bu-nasil-onlenir-4275",
+    "modul": "Ayarlar",
+    "soru": "Tramerde Güvenlik resmini çözme ekranı sürekli geliyor. Bu nasıl önlenir?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Açılan ayarlar sekmesinde Tramer'e tıklayınız.\n4-Devamında 'Tramer'de giriş sonrasında Proxy kullanma' butonuna tik atınız.\n5-Ardından 'Ayarları Kaydet' tuşuna basınız.\nNot: Artık tramere girişte gelen güvenlik resmini son kez geçtikten sonra bu resmi çözmeniz istenmeyecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/anadolu-sigorta-da-guvenlik-kodu-otomatik-nasil-cozulur-4268",
+    "modul": "Ayarlar",
+    "soru": "Anadolu Sigorta'da güvenlik kodu otomatik nasıl çözülür?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Açılan ayarlar sekmesinde Anadolu'ya tıklayarak, 'Güvenlik kodunu otomatik çözmeye çalış' butonuna tik atınız.\n4-Ardından 'Ayarları Kaydet' tuşuna basınız. Anadolu ekranınızı tekrar baştan başlattığınızda artık otomatik şekilde sisteme girecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/muhasebe-modulunde-kesilen-policeler-yakalanmadiginda-sisteme-nasil-yuklerim-4267",
+    "modul": "Muhasebe",
+    "soru": "Muhasebe modülünde kesilen poliçeler yakalanmadığında sisteme nasıl yüklerim?",
+    "cevap": "1- Öncelikle Bilgi Girişi ekranımızı açıyoruz.\n2- 'Muhasebe İşlemleri' / 'Kesilen Poliçe Bildir' seçeneğine tıklayınız.\n3- Gelen ekrandan poliçe bilgilerinizi girerseniz poliçeniz Bugün yakalanan poliçeler kısmında yer alacaktır.\n3- Yada ikinci seçenek olarak ekranın en sol alttaki 'Poliçe Yükle' alanına tıklayarak poliçenizi seçip yükleyebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/personel-farkli-bilgisayara-program-kurup-sistemdeki-aktif-bir-kullanici-adi-ile-giris-yapmasi-nasil-engellenir-4266",
+    "modul": "Ayarlar",
+    "soru": "Personel farklı bilgisayara program kurup; sistemdeki aktif bir kullanıcı adı ile giriş yapması nasıl engellenir?",
+    "cevap": "1-Öncelikle Kullanıcının yer aldığı PC Idsi öğrenilmelidir. Bu işlem için öncelikle programımızdaki sorgulamalar ekranına gelinir.\n2-Devamında 'Yönetici işlemleri' / 'Kullanıcılar' seçeneğini seçiniz.\n3-Gelen ekranda kullanıcı hesabı sütununu bularak; satırın en sağında bulunan 'İşlemler' seçeneğine tıklayınız.\n4- Devamında ekranınıza 'PC Idsi' kısmından ID numarasını koplayınız.\n5-Programın sol üst köşesinde bulunan 'Kullanıcı Bilgileri' / 'Yönetim işlemleri' alanına giriniz.\n6-Gelen ekranda aktif olan kullanıcıyı seçiniz.\n7-Kopyalanan IP numarasını; 'Giriş izni verilen bilgisayar Idleri' kısmına yapıştırınız.\n8-'Bilgisayar Id Giriş Yöntemi' kısmından 'Pc Idsi dışında giriş yapamasın' seçeneğini seçiniz ve 'Bilgileri Kaydet' butonuna basınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/mesaj-ile-gunluk-raporlar-sistemden-nasil-cagirilir-4265",
+    "modul": "Muhasebe",
+    "soru": "Mesaj ile günlük raporlar sistemden nasıl çağırılır?",
+    "cevap": "1- Öncelikle günlük raporları almak istediğiniz telefon numarasının kullanıcı bilgisinde kayıtlı olduğundan emin olmak gerekir. Bunu kontrol etmek için kullanıcı bilgisi açılır.\n2-Yönetim işlemleri ekranı açılır.\n3- Kullanıcılar kısmına gelinir.\n4- Hangi kullanıcının numarasına günlük raporlar isteniyorsa o kişi seçilir.\n5- GSM no kısmına ilgili numara yazılır ve bilgiler kaydedilir.\n6- Kontrol için hızlı ekranda tanımlı olan WhatsApp hesabınıza \"Günlük raporları getir/dünkü raporları getir.\" gibi komutlar yazabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/giris-ekranini-tam-ekran-modda-nasil-acarim-4264",
+    "modul": "Ayarlar",
+    "soru": "Giriş ekranını tam ekran modda nasıl açarım?",
+    "cevap": "1- Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2- Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-'Giriş ekranı tam ekran modda açılsın' yazısının başındaki kutucuğu tikleyiniz. Devamında Ayarları Kaydet butonuna basabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/secilen-kullanicilara-son-degistirilen-ayari-toplu-gonderimini-nasil-yaparim-4263",
+    "modul": "Ayarlar",
+    "soru": "Seçilen Kullanıcılara son değiştirilen ayarı toplu gönderimini nasıl yaparım?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Değiştirmek istediğiniz ayara tıklayın. Örneğin; Allianz'da Web servis kullanımı olarak 'Önce yapay zeka web servis sorgulansın. Fiyat gelmezse web sorgulansın' seçeneğini seçelim.\n4-Daha sonra 'Son değiştirilen ayarın toplu gönderimini yap' seçeneğine tıklayın.\n5-Akabinde sorgulamalar sayfasında böyle bir ekran gelecektir. Gelen bildirimde 'Anladım' butonuna basın.\n6-Devamında İşlemler menüsünden Filtrelemeye Göre Seçim yapabilirsiniz veya aşağıdan ayarı yapmak istediğiniz Kullanıcıları seçebilirsiniz.\n7-'İşlem Yap' butonuna bastığınızda 'Seçilen Kullanıcılara Ayar Gönder' seçeneğine tıklayınız.\n8-Gelen ekrana 'Evet' butonuna basınız.\n9- Kullanıcıların ekranına bu uyarı gelecektir. 'Tamam' butonuna tıklayabilirler.\nUYARI: Bu özellik yalnızca online olan kullanıcılara gider. Offline olan kullanıcılara programa giriş sonrası gider.\nUYARI: Sadece en son yapılan tek bir ayar gönderilir. Birden fazla ayar gönderilmez."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/tum-kullanicilarimda-son-degistirilen-ayarin-toplu-gonderimini-nasil-yaparim-4262",
+    "modul": "Ayarlar",
+    "soru": "Tüm kullanıcılarımda son değiştirilen ayarın toplu gönderimini nasıl yaparım?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Değiştirmek istediğiniz ayara tıklayın. Örneğin; Allianz'da Web servis kullanımı olarak 'Önce yapay zeka web servis sorgulansın. Fiyat gelmezse web sorgulansın' seçeneğini seçelim.\n4-Daha sonra 'Son değiştirilen ayarın toplu gönderimini yap' seçeneğine tıklayın.\n5-Akabinde sorgulamalar sayfasında böyle bir ekran gelecektir. Gelen bildirimde 'Anladım' butonuna basın.\n6-Filtreleme yapmadan 'Filtrelemeye Göre Seçim Yap' butonuna tıklayarak tüm kullanıcılarınızı seçiniz.\n7-'İşlem Yap' butonuna bastığınızda 'Seçili Kullanıcılara Ayar Gönder' seçeneğine tıklayınız.\n7-Gelen bildirimde yapılacak işlemin detayı yazar. Burada 'Evet' butonuna tıklarsanız; en son yaptığınız bu ayarı tüm kullanıcılara uygulayacaktır.\n8- Kullanıcıların ekranına bu uyarı gelecektir. 'Tamam' butonuna tıklayabilirler.\nUYARI: Bu özellik yalnızca online olan kullanıcılara gider. Offline olan kullanıcılara programa giriş sonrası gider.\nUYARI: Sadece en son yapılan tek bir ayar gönderilir. Birden fazla ayar gönderilmez."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/yeni-fiyat-raporlama-ekranini-nasil-kullanabilirim-4261",
+    "modul": "Ayarlar",
+    "soru": "Yeni fiyat raporlama ekranını nasıl kullanabilirim?",
+    "cevap": "1- Bilgi giriş ekranında sorgu yapıldıktan sonra raporlama kısmı açılır.\n2- Buradan Kasko/Trafik sonucunu raporla Yeni* seçeneklerinden istenen seçilir.\n3- Yeni raporlama sonucunuz otomatik olarak açılacaktır."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/tamamlayici-saglik-sorgulamasi-tss-nasil-sorgulamasi-yapilir-4260",
+    "modul": "TSS",
+    "soru": "Tamamlayıcı Sağlık Sorgulaması (TSS) nasıl sorgulaması yapılır?",
+    "cevap": "1-Öncelikle açılan programda tamamlayıcı sağlık butonuna tıklanır.\n2-Sonrasında gelen ekrandan sorgulamanızı yapabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/trafik-kasko-ve-tss-sorgularini-excel-e-nasil-aktarabilirim-4259",
+    "modul": "Toplu İşlemler",
+    "soru": "Trafik, Kasko ve Tss sorgularını Excel'e nasıl aktarabilirim?",
+    "cevap": "1- Sorgulamalar ekranında Trafik/Kasko/Tss sorgulamaları kısmından Excel dosyasına aktarılmak istenen seçilir.\n2- Sayfanın en altında bulunan satır sayısı kısmından aktarılmak istenen sorguların sayısı seçilir. Tüm sorguların ekranda açılması için biraz beklenir.\n3- Ekranın yukarısından İşlemler kısmı açılır.\n4- İşlemlerin altında açılan kısımdan MS Excel'e aktar seçeneği seçilir.\n5- Excel tablosu bilgisayarınıza otomatik olarak indirilecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/merkezde-yapilan-sorgulamalar-tali-veya-subenin-hesabina-nasil-aktarilir-4258",
+    "modul": "Ayarlar",
+    "soru": "Merkezde yapılan sorgulamalar tali veya şubenin hesabına nasıl aktarılır?",
+    "cevap": "1-Bilgi Giriş Ekranı'nda; Web Kullanıcı Prodüktörde resimdeki gibi sadece (Web) kullanıcıları listeleniyor ise aşağıdaki adımları uygulamalısınız.\n2-Öncelikle Kullanıcı Bilgisi butonuna tıklanır. Açılan ekrandan Program Ayarları butonuna tıklanır.\n3-Gelen ekranın sol tarafında ikinci sırada yer alan Bilgi Girişi sekmesine basılır.\n4-\"Bilgi giriş ekranında web kullanıcıları prodüktör seçeneğinde sadece web kullanıcılarını listele\" isimli buton ekrandaki şekilde tikli ise; bu tik kaldırılır.\n5-Daha sonrasında Bilgi Girişi Ekranında bilgilerin güncellenmesi için en sağındaki küçük kırmızı çarpı ile ekranı kapatıp ve tekrar açınız.\n6-Bu sayede Bilgi Giriş Ekranı'nda; Web Kullanıcı Prodüktör butonunun sağına tıklandığı taktirde hem Masaüstü hem de Web kullanıcılarınızı görüntüleyerek işlemlerinize devam edebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/ihsanconnect-whatsapp-hesabi-nasil-baglanilip-aktiflestirilir-4257",
+    "modul": "Whatsapp",
+    "soru": "İhsanConnect WhatsApp hesabı nasıl bağlanılıp aktifleştirilir?",
+    "cevap": "1-Sorgulamalar sayfasından sol kısımda yer alan WhatsApp ikonu tıklanır.\n2-WhatsApp oturumu kısmında bulunan Hesabı Bağla tuşuna basılır.\n3- Açılan ekran daha önceden bağlanılmış hesapları listeler.\n4-Yeni bir hesap bağlamak için önce WhatsApp hattının numarası ve bilgileri girilir.\n5-Hesaba kimlerin erişebileceği seçilir.\n6-Hesabı Bağla tuşuna basılır.\n7-Karekod geldikten sonra WhatsApp bağlı cihazlardan tarama yapılır.\n8-Karakod taraması yapıldıktan sonra WhatsApp bağlı cihazlara IhsanConnect adında bir kayıt gelecektir.\n9-Daha sonra bildirim gönderme penceresinde yeni bağlı hesabı görebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/ihsanconnect-whatsapp-nedir-musteriye-yenileme-hatirlatmalari-nasil-gonderilir-klasik-whatsapp-dan-farki-nedir-4256",
+    "modul": "Whatsapp",
+    "soru": "İhsanConnect WhatsApp nedir? Müşteriye yenileme hatırlatmaları nasıl gönderilir? Klasik WhatsApp dan farkı nedir?",
+    "cevap": "1-Sorgulamalar sayfasından sol kısımda yer alan WhatsApp ikonu tıklanır.\n2-Açılan pencerede araç sahibinin GSM numarası girilir.\n3- Şablonlar kısmından daha önceden ayarlanmış hazır şablonları kullanabilirsiniz.\n4-Şablonlar kısmında bulunan tuşa basarak kendi şablonlarınızı ayarlayabilirsiniz.\n5-WhatsApp oturumu kısmında bulunan hazır bağlanmış oturumları kullanabilirsiniz. Yada hemen yanındaki tuştan İhsanConnect WhatsApp hesabınızı bağlayabilir 7x24 kullanabilirsiniz. İsterseniz uygulama içerisinde bulunana WhatsApp hattınızı da kullanabilirsiniz. İhsanConnect WhatsApp ın farkı sunucuda çalıştığı için 7x24 kullanılabilir ve diğer personelleriniz bu hattı kullanarak müşterilerinize mesaj atabilirler.\n6- Gönderilecek WhatsApp hesabını seçtikten sonra altta bulunan WhatsApp Mesajı Gönder tuşuna basarak gönderim yapabilirsiniz.\n7-Gönderim sonucu başarılı olunca ekrana gelecektir.\n8-WhatsApp hattına mesaj düşecektir.\n9-Ayrıca SMS aboneliğini başlatmışsanız bu mesajı size ait sms başlığı ile de gönderebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/bilgisayarimin-ekran-olceklendirmesini-nasil-degistiririm-4252",
+    "modul": "Ayarlar",
+    "soru": "Bilgisayarımın ekran ölçeklendirmesini nasıl değiştiririm ?",
+    "cevap": "1-Masaüstünde boş bir kısımda sağ tık yapalım.\n2-Açılan menüden Görüntü ayarlarını seçelim.\n3- Açılan pencereden ölçeklendirme kısmından 100% veya 125% seçeneklerinden kendimize uygun olanı seçelim.\n4- Bilgisayarımızı yeniden başlatıp ardından normal bir şekilde işlemlerimizi sağlayabiliriz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/bilgisayarim-whatsapp-dan-gelen-ruhsatlara-ve-ruhsat-bilgilerine-nasil-oto-sorgu-yapabilir-4251",
+    "modul": "Whatsapp",
+    "soru": "Bilgisayarım Whatsapp dan gelen ruhsatlara ve ruhsat bilgilerine nasıl oto sorgu yapabilir?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Sol kısımdan Whatsapp sekmesine gelin.\n4-Sonra ilk iki seçeneği seçin.\n5-Sorgu işlemini Whatsapp olan bilgisayarın yapmasını istiyorsanız havuz aktarılsın işaretini kaldırın.\n6-Sonra Whatapp tabını açıp Whatsapp Web entegrasyonunuzu gerçekleştirin.\n7- Entegrasyon gerçekleştikten sonra Bilgi Giriş ekranında bulunan Oto Sorgu butonuna basıp bilgisayarı otomatik sorgulama moduna alın.\n8-Sonra Whatsapp hattınıza plaka TC ve belge seri gibi bilgiler yazıp gönderin. Yapay zeka tüm bilgileri otomatik yükleyip sizin yerinize sorguyu gerçekleştirecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/turkiye-pusula-robot-ekranina-nasil-gecebilirim-4250",
+    "modul": "Ayarlar",
+    "soru": "Türkiye Pusula Robot ekranına nasıl geçebilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3)Ekran seçimi bölümünden \"Pusula Robot ekranını kullan\" seçeneğini işaretleyip ayarları kaydedelim.\n4)Türkiye sekmesini kapatıp açabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/whatsapp-yapay-zeka-sorguyu-bitirdiginde-musteriye-link-paylasmayi-nereden-kapatabilirim-4248",
+    "modul": "Yapay Zeka",
+    "soru": "Whatsapp Yapay zeka sorguyu bitirdiğinde müşteriye link paylaşmayı nereden kapatabilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Ardından Whatsapp sekmesine gelip \"Whatsapp otomatik sorgu sonrası kullanıcıya link paylaş\" seçeneğini kaldırıp ayarları kaydet tuşuna basalım."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/whatsapp-yapay-zekayi-nasil-aktif-ederim-4247",
+    "modul": "Yapay Zeka",
+    "soru": "Whatsapp Yapay zekayı nasıl aktif ederim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3- Ardından Whatsapp sekmesine gelip \"Whatsapp Api bağlantısı yap\" seçeneğini işaretleyip ayarları kaydet tuşuna basalım."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/turkiye-pusula-plus-ekranina-nasil-gecebilirim-4246",
+    "modul": "Ayarlar",
+    "soru": "Türkiye Pusula Plus ekranına nasıl geçebilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Türkiye sekmesinde \"Pusula Plus Ekranını Kullan\" işaretleyip ayarları kaydedelim.\n4-Türkiye sekmesini kapatıp açtıktan sonra sorun çözülecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kullanicilarin-yapmis-oldugu-sorgu-adetlerini-ve-kestigi-policeleri-toplu-raporuna-nereden-bakabilirim-4245",
+    "modul": "Muhasebe",
+    "soru": "Kullanıcıların yapmış olduğu sorgu adetlerini ve kestiği poliçeleri toplu raporuna nereden bakabilirim",
+    "cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sol kısımda yer alan menüden rapor işlemlerini tıklayınız.\n3-Açılan menüden şube performans raporlarını seçiniz.\n4-Açılan sayfada tüm işlemleri yapabilirsiniz. Filtreleri kullanabilir Excele aktarabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kullanicilarin-yapmis-oldugu-sorgu-adetlerini-ve-kestigi-policeleri-toplu-raporuna-nereden-bakabilirim-4244",
+    "modul": "Muhasebe",
+    "soru": "Kullanıcıların yapmış olduğu sorgu adetlerini ve kestiği poliçeleri toplu raporuna nereden bakabilirim",
+    "cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sol kısımda yer alan menüden rapor işlemlerini tıklayınız.\n3-Açılan menüden kullanıcı performans raporlarını seçiniz.\n4-Açılan sayfada tüm işlemleri yapabilirsiniz. Filtreleri kullanabilir Excele aktarabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/neova-otomatik-imm-sorgusu-nasil-yaparim-4243",
+    "modul": "Program Geneli",
+    "soru": "Neova otomatik İMM sorgusu nasıl yaparım",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Neova sekmesine geliniz. Burada bulunan Neova İMM sorgulaması için yeni tab açı işaretleyiniz.\n4-Hesaplar kısmında Neovafast girişi için ikinci ayrı bir karekod tanımlaması yapmanız gerekmektedir. Bu işlemi yapınız.\n5-Bundan sonra Neova da trafik sorgusunun ardına otomatik imm sorgusu yapacaktır."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kestigimiz-yakalanan-policelere-nasil-erisebilirim-yakalanmayanlari-nasil-bulabilirim-4241",
+    "modul": "Muhasebe",
+    "soru": "Kestiğimiz yakalanan poliçelere nasıl erişebilirim. Yakalanmayanları nasıl bulabilirim",
+    "cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sol kısımda yer alan menüden poliçe işlemlerini tıklayınız.\n3-Açılan menüden yakalan poliçeleri seçiniz.\n4-Açılan sayfada tüm işlemleri yapabilirsiniz. Filtreleri kullanabilir Excele aktarabilirsiniz.\n5-Ayrıca tabloda en sağ kısımda yakalanan poliçenin acente bilgisi de yer alır."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/trafik-uretim-kotasi-dolmus-uyarisi-aliyorum-nereden-takip-edebilirim-4240",
+    "modul": "Muhasebe",
+    "soru": "Trafik üretim kotası dolmuş uyarısı alıyorum. Nereden takip edebilirim",
+    "cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sol kısımda yer alan menüden poliçe işlemlerini tıklayınız.\n3-Açılan menüden kota işlemlerini seçiniz.\n4-Açılan sayfada anlık olarak üretimleri görebilirsiniz. Kotayı aşanlar kırmızı gözükecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/uretimlere-kota-islemi-nasil-ekleyebilirim-4239",
+    "modul": "Muhasebe",
+    "soru": "Üretimlere kota işlemi nasıl ekleyebilirim?",
+    "cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sol kısımda yer alan menüden poliçe işlemlerini tıklayınız.\n3-Açılan menüden kota işlemlerini seçiniz.\n4-Açılan sayfada üstte bulunan kota ekle tuşuna basınız.\n5-Açılan pencereden önce hangi şirkete kota uygulanacak bu seçilir.\n6-Sonra ürün türü seçilir.\n7-Sonra kotaya tabi şubeler eklenir.\n8-Sonra kota türü seçilir.\n9-Ardından altta bulunan Bu ay ata tuşundan kota başlangıç ve bitiş tarihlerine tek seferde ilgili ay atanır.\n10-Ardından kaydet tuşuna basarak ekleme yapılır.\n11-O ana kadar tüm üretimleri çekmek için sayfa da bulunan Anlık Kotaları Güncelle tuşuna basarak şubelerin üretim durumlarını görebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/belirledigim-bir-kasko-sablonunu-butun-subelere-ve-kullanicilara-nasil-gonderebilirim-4237",
+    "modul": "Kasko",
+    "soru": "Belirlediğim bir kasko şablonunu bütün şubelere ve kullanıcılara nasıl gönderebilirim?",
+    "cevap": "1-Bilgi Giriş Ekranını açalım.\n2-\"Kasko Şablonu\" bölümüne tıkladıktan sonra \"Toplu Atama\" seçeneğinden bütün değerleri atayalım.\n3- Bütün değerleri atadıktan sonra sırasıyla \"Şablonu Sabit Kaydet\" ve \"Bilgileri Kaydet\" tuşuna tıklayalım. Son olarak yukarıdaki kilit simgesinden şablonunuzu sabit kılabilirsiniz.\n4- Ardından sağ üstte bulunan sunucu tuşuna basıp gelen menüden Sunucu Ortak Şablon Kaydet seçeneğini seçiniz. Önce onay soracaktır. Buna tamam deyin. Ardından size bu şablonu bütün kullanıcılara sabit şablon yapmak ister misiniz diye onay soracaktır. Buna evet derseniz bu şablon bütün herkese dağıtılacak ve bildirim gidecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/ankara-sigorta-da-trafik-sorgusunda-hangi-fiyatin-yansitilacagini-nasil-secerim-4235",
+    "modul": "Trafik",
+    "soru": "Ankara Sigorta'da trafik sorgusunda hangi fiyatın yansıtılacağını nasıl seçerim?",
+    "cevap": "1- Programın sol üstünde yeşil tik işareti bulunan butona tıklayalım ve kullanıcı bilgisi ekranını açalım.\n2- Açılan ekrandan \"Program Ayarları\" isimli butona tıklayalım.\n3- Sol tarafta bulunan şirketlerden \"Ankara Sigorta\" sekmesini açalım.\n4- Yansıtmak istediğimiz fiyat seçeneğini seçelim.\n5- Ayarları kaydet butonuna tıklayalım."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/fiyat-raporlamayi-nereden-yapabilirim-4234",
+    "modul": "Program Geneli",
+    "soru": "Fiyat raporlamayı nereden yapabilirim?",
+    "cevap": "1- İlk öncelikle Bilgi giriş ekranımıza gelelim.\n2- Ardından alt tarafta bulunan dünya işaretine tıklayalım.\n3- Açılan ekranda hangi seçeneği raporlamak isterseniz tıklayalım (trafik kasko vb)."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/muhasebe-yetkileri-nasil-tanimlanir-4233",
+    "modul": "Muhasebe",
+    "soru": "Muhasebe yetkileri nasıl tanımlanır",
+    "cevap": "1-Sağ üst kısımda bulunan kullanıcı logosunun olduğu tuşa basınız.\n2-Açılan menüden Ayarlar menüsünü seçiniz.\n3-Gelen sayfadan Yetkiler sekmesini tıklayınız.\n4-Aktif yetkiler de Yönetici yetkisi eklenmemişse tüm poliçeleri ve kartları görebilsin ve acenteliklere göre poliçe yakalansın seçip kaydet e basarak ismini Yönetici Yetkisi verip bir yönetici yetkisi tanımlayın.\n5-Sonra şubeler için ise benzer şekilde Kendisinin ve şubesinin poliçelerini ve kartlarını görebilsin seçip şube yetkisi ekleyin.\n6-Daha sonra üst kısımda bulunan Toplu Yetki Ataması'nı tıklayınız\n7-Sonra gelen pencereden atama yapılacak yetkiyi seçiniz.\n8-Sonra tüm kullanıcıları seçip istediklerinizin işaretini kaldırabilirsiniz.\n9-Sonra onayla ile kaydetme işlemi yapın. Benzer şekilde yönetici şube yetkileri toplu atanabilir.\n10-İsterseniz kullanıcıyı seçip sağ kısımda bulunan aktif yetki den yetkisini değiştirip kaydet tuşuna basabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/seker-cok-yavas-calisiyor-ne-yapabilirim-4230",
+    "modul": "Program Geneli",
+    "soru": "Şeker çok yavaş çalışıyor ne yapabilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3- Şeker sekmesindeki \"Şeker özel işlem yap\" önündeki tiki kaldırıp ayarları kaydedelim.\n4-Şeker sekmesini kapatıp açarsanız sorun çözülecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/unico-cok-yavas-calisiyor-ne-yapabilirim-4229",
+    "modul": "Program Geneli",
+    "soru": "Unico çok yavaş çalışıyor ne yapabilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3- Unico sekmesindeki \"Unico özel işlem yap\" önündeki tiki kaldırıp ayarları kaydedelim.\n4-Unico sekmesini kapatıp açarsanız sorun çözülecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/corpus-cok-yavas-calisiyor-ne-yapabilirim-4228",
+    "modul": "Program Geneli",
+    "soru": "Corpus çok yavaş çalışıyor ne yapabilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3- Corpus sekmesindeki \"Corpus özel işlem yap\" önündeki tiki kaldırıp ayarları kaydedelim.\n4-Corpus sekmesini kapatıp açarsanız sorun çözülecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/neova-cok-yavas-calisiyor-ne-yapabilirim-4227",
+    "modul": "Program Geneli",
+    "soru": "Neova çok yavaş çalışıyor ne yapabilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3- Neova sekmesindeki \"Neova özel işlem yap\" önündeki tiki kaldırıp ayarları kaydedelim.\n4-Neova sekmesini kapatıp açarsanız sorun çözülecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kasko-sablonunu-nasil-guncelleyebilirim-4225",
+    "modul": "Kasko",
+    "soru": "Kasko Şablonunu nasıl güncelleyebilirim?",
+    "cevap": "1-Bilgi Giriş Ekranını açalım.\n2-\"Kasko Şablonu\" bölümüne tıkladıktan sonra \"Toplu Atama\" seçeneğinden bütün değerleri atayalım.\n3- Bütün değerleri atadıktan sonra sırasıyla \"Şablonu Sabit Kaydet\" ve \"Bilgileri Kaydet\" tuşuna tıklayalım. Son olarak yukarıdaki kilit simgesinden şablonunuzu sabit kılabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/egm-bilgileri-gelmiyor-ne-yapabilirim-4224",
+    "modul": "Program Geneli",
+    "soru": "EGM bilgileri gelmiyor ne yapabilirim?",
+    "cevap": "1-Bilgi Giriş Ekranını açalım.\n2- Sağ taraftaki \"EGM Sorgula\" butonundan bünyenizde bulunan şirketleri deneyebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/sms-ile-giris-yapilan-sirketlerde-oto-girisler-icin-mobil-uygulamayi-nasil-kurabilirim-4222",
+    "modul": "Kurulum",
+    "soru": "SMS İle Giriş Yapılan Şirketlerde, Oto Girişler İçin Mobil Uygulamayı Nasıl Kurabilirim?",
+    "cevap": "DİKKAT! Mobil uygulamayı kurduktan sonra, SMS'leri algılayabilmesi için uygulamanın telefonunuzda muhakkak açık kalması gerekmektedir.\n1- Ekranın sol üst kısmındaki İhsan Yazılım logosuna tıkladıktan sonra açılan \"Sorgulamalar\" ekranında, ekranın en altındaki işaretli linke sağ tıklayarak \"Bağlantıyı kopyala\" dedikten sonra linki telefonumuza aktarıyoruz.\n2- Uygulamayı indirirken çıkan uyarıları onaylayarak devam ediyoruz.\n3- Uygulama açıldığında sağ üstteki profil simgesinden giriş ekranına geliyoruz ve masaüstü programına girerken kullandığımız kullanıcı ile giriş sağlıyoruz.\n4- Giriş yaptıktan sonra sağ altta üç çizgi bulunan butona tıkladıktan sonra, zarf simgesi bulunan butona tıklıyoruz.\n5- Ardından sağ üstteki ayarlar simgesine tıkladıktan sonra telefon numaramızı \"başına 0 koymadan\" yazarak \"Kaydet\" diyoruz.\n6- Uyarı! Bu işlemler yapıldıktan sonra mobil uygulamada SMS'ler alınamıyorsa, uygulama izinlerini kontrol etmeniz gerekmektedir. Uygulama bilgilerine girdikten sonra, izinler kısmından uygulamaya ekrandaki tüm izinleri veriyoruz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/turk-nippon-sfs-nasil-gecebilirim-4221",
+    "modul": "Ayarlar",
+    "soru": "Türk Nippon SFS nasıl geçebilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Türk Nippon sekmesine geldikten sonra sağ üstten \"Türk Nippon SFS ekranını kullan\" tuşuna tıklayıp ayarları kaydedebilirsiniz.\n4-Değişikliklerin geçerli olabilmesi için Türk Nippon ekranını kapatıp açabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/sirketlerde-kullanici-adi-sifremi-ve-proxy-ayarlarimi-nasil-degistirebilirim-4219",
+    "modul": "Ayarlar",
+    "soru": "Şirketlerde kullanıcı adı, şifremi ve proxy ayarlarımı nasıl değiştirebilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan \"Yönetim İşlemleri\" tuşuna basınız.\n3-Hesaplar bölümünden bağlı olduğumuz hesabı seçtikten sonra yeni kullanıcı adı veya şifreyi yazıp bilgileri kaydedelim.\n4-Proxy girmeniz gerekiyorsa evden çalışma gibi durumlar için merkez şube IP adresi kısmına girebilirsiniz.\n5-Değişiklik yaptığımız şirketin ekranını kapatıp açabiliriz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/yeni-kullanici-nasil-ekleyebilirim-4218",
+    "modul": "Program Geneli",
+    "soru": "Yeni kullanıcı nasıl ekleyebilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan \"Yönetim İşlemleri\" tuşuna basınız.\n3-\"Kullanıcı Ekle\" butonuna tıkladıktan sonra yıldızlı alanları doldurup bilgileri kaydedebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/koru-hizli-ekrana-nasil-gecebilirim-4216",
+    "modul": "Ayarlar",
+    "soru": "Koru Hızlı Ekrana nasıl geçebilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Koru Sigorta sekmesinde Hızlı Trafik ve Hızlı Kasko seçeneklerini işaretledikten sonra ayarları kaydedebilirsiniz.\n4-Değişikliklerin geçerli olabilmesi için Koru Sigorta ekranını kapatıp açabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/police-kesildigi-zaman-ekranima-uyari-geliyor-nasil-kapatabilirim-4215",
+    "modul": "Ayarlar",
+    "soru": "Poliçe kesildiği zaman ekranıma uyarı geliyor nasıl kapatabilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Ardından açılan sayfada genel ayarlar kısmında bulunan kesilen poliçe yakalandığında ekrana uyarı verilsin kutucuğunun tikini kaldıralım."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/ana-sigorta-hizli-ekrana-nasil-gecebilirim-4214",
+    "modul": "Ayarlar",
+    "soru": "Ana Sigorta Hızlı ekrana nasıl geçebilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Ana Sigorta sekmesinde Hızlı Trafik ve Hızlı Kasko seçeneklerini işaretledikten sonra ayarları kaydedebilirsiniz.\n4-Değişikliklerin geçerli olabilmesi için Ana Sigorta ekranını kapatıp açabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/program-aksamlari-kapaniyor-ne-yapmaliyim-4213",
+    "modul": "Ayarlar",
+    "soru": "Program akşamları kapanıyor ne yapmalıyım?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Genel ayarlar sekmesinde en alttaki \"Program uzun süre hareketsiz kaldığında kapat\" seçeneğinin tikini kaldırıp ayarları kaydedebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/quick-sfs-nasil-gecebilirim-4212",
+    "modul": "Ayarlar",
+    "soru": "Quick SFS nasıl geçebilirim?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Quick sekmesine geldikten sonra sağ üstten \"Quick SFS ekranını kullan\" tuşuna tıklayıp ayarları kaydedebilirsiniz.\n4-Değişikliklerin geçerli olabilmesi için Quick Sigorta ekranını kapatıp açabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/ihsanda-gunluk-haftalik-uretim-raporunu-nasil-etkinlestirebilirim-4210",
+    "modul": "Muhasebe",
+    "soru": "İhsanda günlük haftalık üretim raporunu nasıl etkinleştirebilirim?",
+    "cevap": "1-Program bünyesinde bulunan muhasebe modülüne geçiniz.\n2-Sağ üst köşede bulunan profil tuşundan ayarları tıklayınız.\n3-Gelen pencereden rapor bildirim ayarlarını sekmesini tıklayınız.\n4-Gelen sekmeden Raporlama bildirimlerini etkinleştir seçeneğini etkinleştirin.\n5-Yetkiye göre bütün firmanın yada şubenin yada kendi yaptığınız üretimin kayıtlarını görebilirsiniz. Şube iseniz sadece kendi şube kayıtlarını göreceksiniz.\n6-Whatsapp dan Gönderilsin işaretleyiniz.\n7-Alıcı adı soyadı ve telefonu giriniz ve ekleye basınız. Yanlış eklediyseniz altta bulunan listeden seçip silebilirsiniz.\n8-Email de almak isterseniz benzer işlemleri yapabilirsiniz.\n9-Altta bulunan seçeneklerden hangi raporları ne zaman hangi periyodla almak istiyorsanız seçin. Saat 17 den önce gönderim yapılmaz.\n10-Tüm işlem sonrası Bildirim Ayarlarını Kaydet seçeneğinden kaydediniz.\n11-Eğer test yapmak isterseniz kaydetme sonrası en altta bulunan Test Raporunu Gönder seçeneğini tıklayıp anlık üretimi alabilirsiniz.\n12-Örnek bir WhatsApp a gelen rapor."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/unico-sigorta-da-karekod-2fa-kurulumu-nasil-yapabilirim-4209",
+    "modul": "Program Geneli",
+    "soru": "Unico Sigorta da karekod 2FA kurulumu nasıl yapabilirim",
+    "cevap": "1-Unico sekmesinde işlemlerde bulunan Karekod sıfırlama sayfasını tıklayınız.\n2-Gelen sayfaya kullanıcı adı ve parolanız ile giriş yapınız.\n3- Gelen ekranda bulunan kurulum anahtarını içeren karekodu sağ tıklayıp farklı kaydediniz ve sonra telefonunuza işleyip onaylama işlemini yapınız.\n4-Sonra işlemler menüsünden Çift yönlü karekod yükle den farklı kaydettiğiniz karekod yükleyiniz. Tüm eşleşen hesaplara otomatik dağıtımı yapılacaktır."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/programimi-beta-versiyona-nasil-guncelleyebilirim-4208",
+    "modul": "Program Geneli",
+    "soru": "Programımı beta versiyona nasıl güncelleyebilirim?",
+    "cevap": "1- \"Güncelleme Yap\" butonunun sağındaki \"V\" simgeli butona tıklıyoruz\n2- \"Beta (Yayınlanacak) Versiyona Güncelle\" butonuna tıklayarak beta güncellemesi yapabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/allianz-karekod-kilitlenmesine-nasil-cozum-bulabilirim-4206",
+    "modul": "Program Geneli",
+    "soru": "Allianz karekod kilitlenmesine nasıl çözüm bulabilirim ?",
+    "cevap": "Allianz'da çok sık yaşanan karekod bloke olayına aşağıdaki adımları uygulayarak çözüm bulabilirsiniz. Yalnız şu hususu göz önünde bulundurun Chrome veya Edge gibi browserlarda Allianz'a hariçten girdiğiniz zaman telefonunuzda kalan eski karekodları denediğinizde bloke ediyor. Lütfen telefonunuzdan da Allianz ile alakalı tüm karekodları silin. Ayrıca başka bir şubenizde de aynı partaj kullanılmakta ise o kişiden de telefondan silmesini talep edin.\n1-Önce sol üst kısım da bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Açılan pencerede sol alt köşede bulunan Yönetim İşlemleri butonuna basınız.\n3-Açılan pencereden Hesaplar bölümüne tıkayınız ve işlem yapmak istediğiniz hesabı seçiniz.\n4-Üstte bulunan Toplu Hesap Atama menüsü içerisinde bulunan 'Allianz'ın şifre ve karekod bilgisini kullanıcı adı eşleşen tüm hesaplardan boşalt' menüsüne tıklayınız.\n5-Sadece yöneticiler bu işlemleri yapabilir ve anlık olarak online olan herkese şifre ve karekod boşaltma talimatı gider.\n6-İşin garanti olması için bu işlem sonunda açılan sekme kapatma penceresinden Allianz'ın bütün kullanıcılardan sekmesini kapatınız.\n7-Daha sonra yeni karekodu alıp tüm hesapları seçiniz.\n8-Aktif olan hesaptaki şifre ile birlikte hesaba karekodu tanımlayıp Toplu Hesap Atama menüsünde en altta bulunan 'Seçili Hesaplardaki Kullanıcı Adı Eşleşen Hesaplara Toplu Kullanıcı Adı, Şifre, IP, Oto Giriş ve Bağlı Eposta Parola Ata' seçeneği ile bütün seçili hesaplara yeni karekodu atayınız."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/program-acilirken-beyaz-ekran-hatasi-veriyor-nasil-cozebilirim-4205",
+    "modul": "Kurulum",
+    "soru": "Program açılırken beyaz ekran hatası veriyor nasıl çözebilirim?",
+    "cevap": "1. İlk öncelikle Google Chrome açalım.\n2. Ardından arama kısmına  ilgili linki kopyalayıp yapıştıralım.\n3. Açılan sayfada yeşil kısımda olan Download Webviev2 Runtime Installer kısmına tıkladıktan sonra indirme işlemi başlamış olacaktır. İndirme işlemi tamamlandığında program açık ise kapatıp açtıktan sonra sorununuz düzelmiş olacaktır."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/unico-web-servis-nasil-talep-ederim-gerekli-islemleri-ogrenebilir-miyim-4204",
+    "modul": "Web Servis",
+    "soru": "Unico web servis nasıl talep ederim gerekli işlemleri öğrenebilir miyim?",
+    "cevap": "1. Unico acenteliğiniz mevcut ise Web servis talep için ilk öncelikle bölge müdürlüğünüzle iletişime geçip İhsan Yazılım kullandığınızı Web servis talep etmek istediğinizi belirtiniz.\n2. Daha sonrasında size appsecuritykey adlı şifre verecekler ilgili bilgiler mail yoluyla sizlere ulaştığı zaman bizimle iletişime geçip web servis tanımlama işlemini sağlayabiliriz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/kendi-ip-adresimi-nereden-ogrenebilirim-4203",
+    "modul": "Program Geneli",
+    "soru": "Kendi İp adresimi nereden öğrenebilirim",
+    "cevap": "1. İlk öncelikle sol üstten sorgulamaların olduğu sayfaya gelelim\n2. Sayfanın sol en altında kendi ip adresinizi görüntüleyebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/program-acilirken-sirketler-cok-yavas-aciliyor-nasil-hizlandirabilirim-4201",
+    "modul": "Ayarlar",
+    "soru": "Program açılırken şirketler çok yavaş açılıyor nasıl hızlandırabilirim?",
+    "cevap": "İhsan Sigorta Hızlı Teklif uygulamasında şirketlerin açılış hızını hızlandırmak için aşağıdaki işlemleri yapabilirsiniz.\n1-Önce sol üst kısım da bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Ardından alt kısımlarda olan saniyede bir sigorta şirketi açılsın seçeneğini *1* saniye olarak ayarlayıp ayarları kaydet dedikten sonra işleminiz gerçekleşmiş olacaktır."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/sirket-sayfalari-acilmiyor-ne-yapabilirim-4200",
+    "modul": "Program Geneli",
+    "soru": "Şirket sayfaları açılmıyor ne yapabilirim?",
+    "cevap": "Proxy hatası alıyorsunuz. Bağlı bulunduğunuz merkezle iletişime geçerek proxy ve IP adresinizi kontrol etmelerini isteyebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/programin-onbellegini-nasil-temizleyebilirim-edge-cache-nasil-temizlenir-4199",
+    "modul": "Program Geneli",
+    "soru": "Programın önbelleğini nasıl temizleyebilirim? Edge Cache nasıl temizlenir?",
+    "cevap": "1-Önce sol üst kısımda bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Genel Ayarlar sekmesinden \"Edge Cache Temizliği\" seçeneğine tıklayalım.\nProgram otomatik olarak kapanıp yeniden açılacaktır. Açıldıktan sonra sorun çözülecektir."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/program-sifremi-unuttum-nasil-guncelleyebilirim-4198",
+    "modul": "Program Geneli",
+    "soru": "Program şifremi unuttum nasıl güncelleyebilirim?",
+    "cevap": "1-Sol alttaki \"Şifremi Unuttum\" seçeneğine tıklayalım.\n2-E-posta adresinizi girdikten sonra \"Gönder\" tuşuna tıklayarak şifrenizi öğrenebilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/sigorta-sirket-sekmelerini-nasil-yukari-alabilirim-4196",
+    "modul": "Ayarlar",
+    "soru": "Sigorta şirket sekmelerini nasıl yukarı alabilirim",
+    "cevap": "İhsan Sigorta Hızlı Teklif uygulamasında bulunan sekmeleri sol kısım yerine yukarı almak için aşağıdaki adımları uygulayabilirsiniz.\n1- Önce sol üst kısım da bulunan yeşil check işareti olan kullanıcı bilgisi tuşuna basınız.\n2-Sonra açılan sayfadan altta bulunan program ayarları tuşuna basınız.\n3-Ardından program ayarları sayfası gelecektir. Bu sayfada genel sekmesinde en üstte bulunan \"Sigorta şirket sekmeleri uygulamanın solunda açılsın\" işareti kaldırılırsa sekmeler üstte açılacaktır."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/program-nasil-kurulur-4195",
+    "modul": "Kurulum",
+    "soru": "Program nasıl kurulur",
+    "cevap": "1-Programı websitemiz adresinde sayfanın en altında bulunan Masaüstü Hızlı Teklif yazan linkten indirip kurabilirsiniz.\n2-Ya da linkini vereceğimiz Youtube videosundan izleyip nasıl kurulduğunu öğrenip çok kolay bir şekilde kurabilirsiniz."
+  },
+  {
+    "url": "https://sigorta.teklifi.al/sss/acente-kodlari-nasil-eklenir-4194",
+    "modul": "Muhasebe",
+    "soru": "Acente kodları nasıl eklenir",
+    "cevap": "0- Sorgulamalar ekranının üst kısmından \"Muhasebe Modülü\" açılır.\n1-Sağ üst kısımda bulunan kullanıcı logosunun olduğu tuşa basınız.\n2-Açılan menüden Ayarlar menüsünü seçiniz.\n3- Gelen sayfadan yetkiniz dahilinde görebileceğiniz sekmeler vardır. Bunlardan Acentelikleri tıklayınız.\n4- Gelen sayfadan acentesi olduğunuz şirketleri seçip acente nosunu ekleyiniz. Acente ünvanı zorunlu olmasa da ekleyebilirsiniz."
+  }
+]

@@ -27,7 +27,7 @@ with json_path.open(encoding="utf-8") as f:
     sss_raw = json.load(f)
 
 # Normalize edilmiş soru listesi + indeks tut
-questions_norm = [normalize(item["Soru"]) for item in sss_raw]
+questions_norm = [normalize(item["soru"]) for item in sss_raw]
 
 # RapidFuzz ayarları
 THRESHOLD = 30           # 0-100 arası – düşürürseniz daha gevşek olur
@@ -54,10 +54,10 @@ def get_faq(q: str = Query(..., description="Kullanıcının Türkçe sorusu")):
         _, score, idx = match           # bize index ve skor döner
         item = sss_raw[idx]
         return {
-            "soru":   item["Soru"],
-            "cevap":  item["Cevap"],
-            "modul":  item["Modul"],
-            "url":    item["URL"],
+            "soru":   item["soru"],
+            "cevap":  item["cevap"],
+            "modul":  item["modul"],
+            "url":    item["url"],
             "skor":   score             # debug için skor da döndürüyoruz
         }
 
