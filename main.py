@@ -1,22 +1,31 @@
-from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
+from fastapi import FastAPI, Query
 import json
+from difflib import get_close_matches
 
 app = FastAPI()
 
-# CORS ayarı (frontend için gerekebilir)
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # Gerekirse kısıtlayabilirsin
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+# SSS verisini önceden yükle
+with open("sss.json", "r", encoding="utf-8") as f:
+    sss_list = json.load(f)
 
-# JSON dosyasını yükle
-with open("sss.json", "r", encoding="utf-8") as file:
-    sss_data = json.load(file)
+@app.get("/")
+def home():
+    return {"status": "OK"}
 
 @app.get("/api/sss")
-def get_sss():
-    return sss_data
+def get_answer(q: str = Query(..., description="Kullanıcı sorusu")):
+    questions = [item["Soru"] for item in sss_list]
+    match = get_close_matches(q, questions, n=1, cutoff=0.4)
+
+    if match:
+        # Eşleşen soruyu bul
+        for item in sss_list:
+            if item["Soru"] == match[0]:
+                return {
+                    "soru": item["Soru"],
+                    "cevap": item["Cevap"],
+                    "modul": item["Modul"],
+                    "url": item["URL"]
+                }
+
+    return {"cevap": "Üzgünüm, bu konuda bir bilgi bulamadım."}
