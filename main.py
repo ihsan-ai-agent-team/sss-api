@@ -4,17 +4,15 @@ import json, re, unicodedata, pathlib
 
 app = FastAPI(title="SSS API", version="1.0")
 
-# ---------- Yardımcı fonksiyonlar ----------
-_TURKISH_MAP = str.maketrans("çğıöşü", "cgiosu")  # çok hafif transliterasyon
+_TURKISH_MAP = str.maketrans("çğıöşü", "cgiosu")
 
 def normalize(text: str) -> str:
     text = text.lower().translate(_TURKISH_MAP)
     text = unicodedata.normalize("NFKD", text)
-    text = re.sub(r"[^\w\s]", " ", text)      # noktalama → boşluk
-    text = re.sub(r"\s+", " ", text).strip()  # çoklu boşluk temizle
+    text = re.sub(r"[^\w\s]", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
     return text
 
-# ---------- Veri yükleme ----------
 json_path = pathlib.Path(__file__).with_name("sss.json")
 with json_path.open(encoding="utf-8") as f:
     sss_raw = json.load(f)
@@ -24,7 +22,6 @@ questions_norm = [normalize(item["soru"]) for item in sss_raw]
 THRESHOLD = 30
 SCORER = fuzz.token_set_ratio
 
-# ---------- Ortak iş mantığı ----------
 def find_best_match(q: str):
     q_norm = normalize(q)
     match = process.extractOne(
@@ -33,12 +30,11 @@ def find_best_match(q: str):
         scorer=SCORER,
         score_cutoff=THRESHOLD
     )
-
     if match:
         _, score, idx = match
         item = sss_raw[idx]
         return {
-            "soru": q,                   # Kullanıcının sorduğu orijinal soru
+            "soru": q,
             "cevap": item["cevap"],
             "modul": item["modul"],
             "url": item["url"],
@@ -53,19 +49,25 @@ def find_best_match(q: str):
             "skor": 0
         }
 
-# ---------- API ----------
 @app.get("/", tags=["health"])
 def health():
     return {"status": "ok"}
 
-@app.get("/api/sss", tags=["faq"])
-def get_faq(q: str = Query(..., description="Kullanıcının Türkçe sorusu")):
-    return find_best_match(q)
+@app.api_route("/api/sss", methods=["GET", "POST"], tags=["faq"])
+async def faq_handler(request: Request, q: str = Query(None)):
+    q_value = q
 
-@app.post("/api/sss", tags=["faq"])
-async def post_faq(request: Request):
-    data = await request.json()
-    q = data.get("q")
-    if not q:
-        return {"error": "Missing 'q' in JSON body"}
-    return find_best_match(q)
+    # POST geldiyse ve query boşsa body'yi dene
+    if request.method == "POST" and not q_value:
+        try:
+            data = await request.json()
+            q_from_body = data.get("q")
+            if q_from_body:
+                q_value = q_from_body
+        except:
+            pass
+
+    if not q_value:
+        return {"error": "Missing 'q' in query or body"}
+
+    return find_best_match(q_value)
